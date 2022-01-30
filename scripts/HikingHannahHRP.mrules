@@ -1,0 +1,825 @@
+// Maperitive rendering ruleset for hiking maps. The map style resembles
+// that of paper hiking maps produced by Alpine Association of Slovenia (http://www.pzs.si/).
+// http://maperitive.net
+
+// Created by Hannah Spitzer, based on hiking rules by Igor Brejc
+// Released under the Creative Commons Attribution-ShareAlike 3.0 License (http://creativecommons.org/licenses/by-sa/3.0/)
+// Icons used: Map icons CC-0 from SJJB Management (http://www.sjjb.co.uk/mapicons)
+
+
+features
+	
+	points, areas, lines
+		waterfall : waterway=waterfall
+
+	points, areas
+		restaurant : @isOneOf(amenity,pub,fast_food,restaurant,bar) OR tourism=guest_house
+		alpine hut : tourism=alpine_hut
+		wilderness hut : tourism=wilderness_hut OR (amenity=shelter AND shelter_type=basic_hut)
+		shelter : amenity=shelter AND (NOT shelter_type=basic_hut)
+		railway station : railway=station
+		place : node[place OR landuse=farmyard] area[place OR landuse=farmyard]
+		fountain : natural=spring OR amenity=fountain OR man_made=water_well
+		fountain drinkingwater : amenity=drinking_water OR drinking_water=yes
+		picnic : tourism=picnic_site OR amenity=table OR leisure=picnic_table
+		camping : tourism=camp_site
+		toilets : amenity=toilets
+		cafe : amenity=cafe OR shop=bakery
+		supermarket : @isOneOf(shop,supermarket,convenience)
+		church : amenity=place_of_worship AND religion=christian
+		castle : historic=castle AND (NOT ruins=yes)
+		castleruins : historic=castle AND ruins=yes
+
+	points
+		peak : natural=peak
+		power tower : @isOneOf(power, tower, pole, station, sub_station)
+		bus stop : highway=bus_stop
+		aerialway station : aerialway=station
+		camping wpt : gpswaypoint[comment=bivouac]
+		restaurant wpt : gpswaypoint[comment=food]
+		fountain wpt :  gpswaypoint[comment=water]
+		gps waypoints : gpswaypoint[(NOT @isOneOf(comment, bivouac, food, water))]
+//		gps trackpoints: gpstrack[].gpspoint[]
+//		gps routepoints: gpsroute[].gpspoint[]
+
+	lines
+//		contour lines
+		contour major : contour[@isMulti(elevation, 50)]
+		contour minor : contour[@isMulti(elevation, 10) and not @isMulti(elevation, 50)]
+
+//		hiking paths
+		foot path major : @isOneOf(highway,pedestrian,footway,path,steps) AND (NOT trail_visibility OR @isOneOf(trail_visibility, excellent, good))
+		foot path minor : @isOneOf(highway,pedestrian,footway,path,steps) AND (trail_visibility AND NOT @isOneOf(trail_visibility, excellent, good))
+		kletterhilfen : highway=via_ferrata OR assisted_trail=yes OR @isMatch(via_ferrata, ".*") OR @isMatch(safety_rope, ".*") OR @isMatch(ladder, ".*") OR @isMatch(rungs, ".*")
+
+//		roads
+		road major : @isOneOf(highway,motorway,motorway_link,trunk,trunk_link,primary,primary_link,secondary,secondary_link,tertiary,tertiary_link)
+		road minor : @isOneOf(highway,residential,unclassified,living_street,construction,service)
+
+//		forest / farm roads
+		track: highway=track
+
+//		other
+		aerialway closed: @isOneOf(aerialway,cable_car,gondola,mixed_lift)
+		aerialway open: @isOneOf(aerialway,chair_lift,drag_lift)
+		railway : railway=rail
+		power line : @isOneOf(power, line, minor_line)
+		stream : waterway=stream OR waterway=river
+		boundary country : boundary=administrative AND (admin_level=2 OR admin_level=4) AND NOT natural=coastline
+		cliff : natural=cliff
+
+// custom gps tracks
+		main gps tracks : gpstrack[comment=HRP]
+		main var gps tracks : gpstrack[comment=HRPvar]
+		side gps tracks : gpstrack[@isOneOf(comment, GR11, GR10)]
+		other gps tracks : gpstrack[NOT @isOneOf(comment, HRP, HRPvar, GR11, GR10)]
+		gps routes : gpsroute[]
+
+//hiking routes
+		hiking route major : osmnetwork[type=route AND (route=foot OR route=hiking) AND @isOneOf(network, iwn, nwn)]
+		hiking route minor : osmnetwork[type=route AND (route=foot OR route=hiking) AND @isOneOf(network, iwn, nwn)]
+
+	areas
+		// for background shading
+		building : building=yes
+		city area : @isOneOf(landuse,residential,industrial,commercial,retail)
+		forest : landuse=forest OR natural=wood OR leisure=park OR landcover=trees
+		water : natural=water OR waterway=riverbank OR landuse=reservoir OR landuse=basin OR waterway=stream
+		nature reserve : boundary=national_park OR boundary=protected_area OR leisure=nature_reserve
+		military : landuse=military OR military=danger_area
+		scree : natural=scree
+		scrub : natural=scrub OR natural=heath
+		grass : landuse=grass OR landcover=grass OR natural=meadow OR landuse=meadow OR landuse=orchard OR natural=grassland
+		rock : natural=bare_rock
+		farmland : landuse=farm or landuse=farmland
+		farmyard:landuse=farmyard
+		beach : natural=beach OR sand
+		quarry : landuse=quarry
+		glacier : natural=glacier
+		fell : natural = fell
+		wetland : natural=wetland
+
+properties
+	map-background-color	: #F0F0F0
+	map-background-opacity	: 1
+	map-sea-color : #6ecaff
+	font-weight : normal
+	font-family : Avenir
+	text-max-width : 7
+	text-halo-width : 25%
+	text-halo-opacity : 0.75
+	text-align-horizontal : center
+	text-align-vertical : center
+	map.rendering.lflp.min-buffer-space : 5
+	map.rendering.lflp.max-allowed-corner-angle : 40
+	map.rendering.lflp.max-compression : 0.9
+
+rules
+// GPS tracks
+	target:  *gps tracks
+		define
+			min-zoom : 5
+			line-width : 5:1;9:1;14:4
+			line-opacity : 9:1;10:0.5
+			curved : False
+			line-offset : 1:0;9:0;14:4
+			line-offset-sides : right
+		if : main gps tracks
+			define
+				line-color : blue
+		elseif : main var gps tracks
+			define
+				line-color : #5a005a
+		elseif : side gps tracks
+			define
+				line-color : orange
+		else
+			define
+				line-color : green
+				font-size : 20
+			draw : text
+		draw : line
+
+// GPS waypoints
+	target : gps waypoints
+		//define
+		//	shape : circle
+		//	shape-size : 8
+		//	line-color : green
+		//	fill-opacity : 0
+		//draw : shape
+		define
+			text-halo-width : 15%
+			font-weight : bold
+			font-size : 13:11;20:20
+			min-zoom : 13
+			text-align-vertical : center
+			text-color : #800080
+			text : name
+		draw : text
+
+// Icons for hiking
+	target: *hut
+		define
+			//icon-image : icons/SJJB/png/Berghuette.png
+			//icon-width : 16
+			min-zoom : 11
+			shape : circle
+			shape-size : 14:10;18:14
+			fill-color : #fff
+			line-width : 2
+			line-color : #080
+		if : alpine hut
+			define
+				fill-color : #080
+		// else wilderness hut; is filled with white
+		draw : shape
+		define
+			min-zoom : 11
+			shape : square
+			shape-size : 14:9;18:13
+			fill-color : #964b00
+			line-color : #964b00
+			line-width : 0
+		draw : shape
+		define
+			font-size : 13:12;20:18
+			font-weight : bold
+			min-zoom : 13
+			text-align-vertical : near
+			text-offset-vertical : 100%
+			text-color : #964b00
+		draw : text
+	target: shelter
+		define
+			icon-image : icons/SJJB/png/accommodation_shelter2.n.32.png
+			icon-width : 16
+			min-zoom : 11
+		draw : icon
+	target : camping*
+		define
+			icon-image : icons/SJJB/png/accommodation_camping.n.32.png
+			min-zoom : 11
+			icon-width : 16
+		draw : icon
+		define
+			font-size : 13:12;20:18
+			min-zoom : 13
+			text-align-vertical : near
+			text-offset-vertical : 100%
+			text-color : #050
+			font-weight : bold
+		draw : text
+		if : camping wpt
+			define
+				shape : circle
+				shape-size : 14:10;18:14
+				line-color : #f00
+				line-width : 2
+				fill-opacity : 0
+			draw : shape
+	target : picnic
+		define
+			icon-image : icons/SJJB/png/tourist_picnic.p.32.png
+			min-zoom : 14
+			icon-width : 14
+		draw : icon
+
+// symbols for hiking
+	target : peak
+		define
+			shape : triangle
+			shape-size : 12
+			fill-color : #ae4242
+			//#D08F55
+			line-style : none
+			min-zoom : 11
+		draw : shape
+		define
+			font-style : normal
+			font-weight : bold
+			font-size : 13:12;14:15
+			text-color : #ae4242
+			text-halo-width : 15%
+			min-zoom : 13
+			text : @if(name, name @if(ele, "\n(" ele ")"), ele)
+			text-align-vertical : near
+			text-max-width : 12
+			text-offset-vertical : 100%
+		draw : text
+
+	target: fountain*
+		define
+			min-zoom:14
+			shape : circle
+			shape-size : 14:16;18:20
+			fill-color : #00a0fc
+			fill-opacity : 0.5
+			line-color : #00f
+			text: "w"
+			text-halo-width : 0%
+			text-color : white
+			font-size : 14:12;18:16
+			font-weight : bold
+			line-width : 14:2;18:3
+			text-align-vertical : center
+			shield-padding-bottom : 10
+		if : fountain drinkingwater
+			define
+				line-color : #000
+		if : fountain wpt
+			define
+				line-color : #f00
+		draw : shield
+		if : fountain wpt
+			define
+				font-size : 13:12;20:18
+				text-align-vertical : near
+				text-offset-vertical : 100%
+				text-color : #00f
+				text-halo-width : 15%
+				font-style : italic
+				text : name
+			draw : text
+	target : waterfall
+		define
+			icon-image : icons/SJJB/png/Wasserfall.png
+			min-zoom : 14
+			icon-width : 14:10;17:14
+			shape-mode : center
+			shape-orientation: fixed
+		draw : icon
+
+// Icons in cities
+	target : supermarket
+		define
+			icon-image : icons/SJJB/png/shopping_supermarket.n.32.png
+			min-zoom : 14
+			icon-width : 14
+		draw : icon
+	target : restaurant*
+		define
+			min-zoom : 14
+		if : restaurant wpt
+			define
+				font-size : 13:12;20:18
+				min-zoom : 13
+				text-align-vertical : near
+				text-offset-vertical : 100%
+				text-color : #f00
+				font-style : italic
+				shape : circle
+				shape-size : 14:10;18:14
+				line-color : #f00
+				line-width : 2
+				fill-opacity : 0
+			draw : shape
+			draw : text
+		else
+			define
+				icon-image : icons/SJJB/png/food_restaurant.n.32.png
+				icon-width : 14
+				min-zoom : 14
+			draw : icon
+	target : cafe
+		define
+			icon-image : icons/SJJB/png/food_cafe.glow.32.png
+			min-zoom : 15
+			icon-width : 13
+		draw : icon
+	target : toilets
+		define
+			icon-image : icons/SJJB/png/amenity_toilets.glow.32.png
+			min-zoom : 14
+			icon-width : 17
+		draw : icon
+	target : railway station
+		define
+			icon-image : icons/SJJB/png/transport_train_station2.n.32.png
+			min-zoom : 14
+			icon-width : 14
+		draw : icon
+	target : bus stop
+		define
+			icon-image: icons/SJJB/png/transport_bus_stop.n.32.png
+			min-zoom: 14
+			icon-width: 14
+		draw: icon
+	target : church
+		define
+			icon-image : icons/SJJB/png/Kirche.png
+			min-zoom: 14
+			icon-width: 18
+		draw: icon
+	target : castle
+		define
+			icon-image : icons/SJJB/png/Schloss.png
+			min-zoom: 14
+			icon-width: 18
+		draw: icon
+	target : castleruins
+		define
+			icon-image : icons/SJJB/png/SchlossRuine.png
+			min-zoom: 14
+			icon-width: 18
+		draw: icon
+
+
+// lines
+
+	target : aerialway *
+		define
+			min-zoom : 12
+			line-width: 1.5
+			line-style:solid
+			line-color:#444
+			font-size:13:11;16:14
+		draw : line
+		draw : text
+		if : aerialway station
+			define
+				shape:square
+				shape-size:12:3;16:8
+				fill-color:#7981B0
+				line-style:none
+		elseif : aerialway closed
+			define
+				shape:circle
+				shape-size:13:1;14:2
+				shape-spacing:20
+		elseif : aerialway open
+			define
+				shape:custom
+				shape-def:l:0,1,0,-1
+				shape-spacing:5
+				shape-size:13:3;15:5
+				line-width:1.5
+		draw:shape
+		draw: line
+
+	target : railway
+		define
+			line-width : 9:1;10:2;13:2;14:3
+			line-style : solid
+		draw : line
+
+	target : stream
+		define
+			min-zoom : 13
+			line-color : #00a0fc
+			line-width : 13:1;14:2;16:3
+		draw : line
+		define
+			min-zoom:13
+			font-size:13:11;16:14
+			text-color: #00f 
+			text-halo-width : 15%
+			font-style : italic
+			map.rendering.lflp.min-buffer-space : 5
+			map.rendering.lflp.max-allowed-corner-angle : 40
+		draw:text
+		
+	target : cliff
+		define
+			min-zoom : 14
+			shape : custom
+			shape-def : p:#525252;pw:1;f:#525252;m:0,0;l:2,-4,4,0;z
+			shape-spacing : 1
+			shape-size : 14:8;19:20
+			shape-aspect : 1
+		draw : shape
+		define
+			line-width : 2
+			line-color : #888
+		draw : line
+		
+	target : kletterhilfen
+		define
+			min-zoom : 14
+			shape : custom
+			shape-def : -4,1, 0,0, -4,-1;Z
+			shape-spacing : 0
+			shape-size : 16:6;20:20
+			shape-aspect : 3
+			fill-color : #FFFF00
+			line-style : none
+		draw : shape
+
+// Routes
+	target : hiking route*
+		define
+			line-color : red
+			line-opacity : 0.5
+			line-offset : 14:0;15:0;16:5
+			line-offset-sides : left
+			font-weight : bold
+			font-size : 13
+			map.rendering.lflp.max-allowed-corner-angle : 30
+		if : hiking route major
+			define
+				min-zoom : 10
+				line-width : 10:1;11:2;15:5
+//				line-offset : 10:0;11:1;15:4
+		else
+			define
+				min-zoom : 12
+				line-style : dash
+				line-width : 11:1;14:2;15:3
+		draw : line
+		draw : text
+
+// Roads, Paths, Tracks
+	target : road *
+		if : road major
+			define
+				min-zoom : 10
+				line-color : #FFE66B
+		else
+			define
+				min-zoom : 14
+				line-color : white
+		define
+			line-width : 10:0.5;13:2;14:2;16:3
+			border-style : solid
+			border-color : black
+			border-width : 80%
+			border-opacity : 0.8
+			font-size : 12
+			text-halo-width : 15%
+		draw : line
+		draw : text
+
+	target : road minor
+		define
+			min-zoom : 10
+			max-zoom : 14
+			line-color : black
+			line-width : 1
+			border-style : none
+		draw : line
+
+	target : track
+		define
+			min-zoom : 14
+			line-color : white
+			line-width : 13.9:1;14:2;16:3
+			border-style : none
+			font-size : 12
+		draw : line
+		draw : text
+		define
+			line-color : black
+			line-width : 1.5
+			line-offset : 13.9:0.5;14:1.5;16:2.5
+			line-offset-sides : both
+//			border-style : solid
+//			border-color : black
+//			border-width : 60%
+//			border-opacity : 0.8
+		for : tracktype=grade1 or not tracktype
+			define
+				line-style : dash
+//				border-style : dash
+		for : tracktype=grade2
+			define
+				line-style: dash
+		for : tracktype=grade3
+			define
+				line-style: dash
+		for : tracktype=grade4
+			define
+				line-style: dashdot
+		for : tracktype=grade5
+			define
+				line-style: dashdotdot
+		for : tunnel=yes
+			define
+				line-style : dot
+		for : bridge=yes
+			define
+				line-style : solid
+				line-width : 1.5
+		draw : line
+		define
+			min-zoom : 12
+			max-zoom : 14
+			line-color : black
+			line-width : 1
+			border-style : none
+		draw : line
+
+	target : foot path*
+		define
+			line-color : black
+			line-style : dash
+			border-style : none
+			font-size : 12
+			line-width : 14:2;15:2
+			min-zoom : 14
+		if : *major
+			define
+				line-style : dash
+		else
+			define
+				line-style : dot
+		draw : line
+		draw : text
+		
+		// SAC-Scale - if applicable in combination with via ferrata
+		define
+			text-offset-vertical : 50%
+			font-size : 12
+			text-halo-opacity : 0.5
+			map.rendering.lflp.max-allowed-corner-angle : 10
+		for : sac_scale=hiking
+			define
+				text : @if(via_ferrata_scale, "V" via_ferrata_scale "/") "T1"
+				text-color : #FF0000
+		for : sac_scale=mountain_hiking
+			define
+				text : @if(via_ferrata_scale, "V" via_ferrata_scale "/")"T2"
+				text-color : #FF0000
+		for : sac_scale=demanding_mountain_hiking
+			define
+				text : @if(via_ferrata_scale, "V" via_ferrata_scale "/")"T3"
+				text-color : #FF0000
+		for : sac_scale=alpine_hiking
+			define
+				text : @if(via_ferrata_scale, "V" via_ferrata_scale "/")"T4"
+				text-color : #0000FF
+		for : sac_scale=demanding_alpine_hiking
+			define
+				text : @if(via_ferrata_scale, "V" via_ferrata_scale "/")"T5"
+				text-color : #0000FF
+		for : sac_scale=difficult_alpine_hiking
+			define
+				text : @if(via_ferrata_scale, "V" via_ferrata_scale "/")"T6"
+				text-color : #0000FF
+		draw : text
+
+// power tower + lines
+	target : power tower
+		define
+			min-zoom : 14
+			line-color: #858585
+			line-style: solid
+			line-width: 1
+			shape : custom
+			shape-def : m:-1,1;l:1,1,1,-1,-1,-1,-1,1,1,-1;m:-1,-1;l:1,1;z
+			shape-size : 13:4;16:6;18:10
+		for : power=pole
+			define
+				shape-size:14:4;20:4
+		draw : shape
+		
+	target : power line
+		define
+			curved : false
+			min-zoom : 14
+			line-width : 2
+			line-color : #858585
+		draw : line
+		
+// Place names
+	target : place
+		for : place=city
+			define
+				font-size : 6:8;14:28
+				min-zoom : 6
+				max-zoom : 14
+		elsefor : place=town
+			define
+				font-size : 9:8;12:14;20:24
+				min-zoom : 9
+		elsefor : place=village
+			define
+				font-size : 12:14;20:24
+				min-zoom : 12
+		elsefor : place=hamlet
+			define
+				font-size : 14:14;20:16
+				min-zoom : 14
+		elsefor : place=locality
+			define
+				font-size : 14:14;20:16
+				min-zoom : 14
+				text-halo-width : 15%
+				font-style : italic
+		elsefor : place=isolated_dwelling
+			define
+				font-size : 14:12;20:14
+				text-halo-width : 15%
+				min-zoom : 14	
+		elsefor : place=farm OR landuse=farmyard
+			define
+				min-zoom : 15
+				font-size : 15:10;20:14
+		else
+			stop
+		draw : text
+
+// contour lines
+	target: contour*
+		define
+			line-color : #7f3300
+			line-opacity : 0.6
+			curved : true
+		if : *major
+			define
+				map.rendering.contour.label : true
+				min-zoom : 12
+				line-width : 11:0.75;13:1.25;15:1.75
+				font-size : 11
+				font-style : italic
+				font-weight : normal
+				text-color : #7f3300
+				text-halo-width : 35%
+				text-halo-opacity : 1
+				text-halo-color : #F1EEE8
+		else
+			define
+				min-zoom : 13
+				line-width : 0.75
+		draw : contour
+
+// areas
+
+	// unicolor background fills
+	target : $featuretype(area)
+		define
+			line-style : none
+			line-width : 1
+		if : farmland
+			define
+				min-zoom : 9
+				fill-color : #E9D8BD
+		elseif : farmyard
+			define
+				min-zoom : 9
+				fill-color : #DCBE91
+		if : forest
+			define
+				min-zoom : 9
+				fill-color : #8DC56C
+			for : leaf_type=broadleaved
+				define
+					fill-texture : Textures/forest_broad.png
+			elsefor : leaf_type=needleleaved
+				define
+					fill-texture : Textures/forest_conifers.png
+			else
+				define
+					fill-texture : Textures/forest_mixed.png
+		elseif : beach
+			define
+				min-zoom : 10
+				fill-color : #FEFEC0
+		elseif : water
+			define
+				fill-color : #6ecaff
+				line-style : solid
+				line-color : #00a0fc
+		elseif : grass
+			define
+				fill-color : #CFECA8
+		elseif : city area
+			define
+				fill-color : #DCDCDC
+		elseif : quarry
+			define
+				fill-color : white
+				line-style : solid
+				line-color : #b3b3b0 black 10%
+				fill-hatch : diagonalcross
+				fill-hatch-color : #cccccc
+		elseif : glacier
+			define
+				fill-color : #DDECEC
+				line-style : dash
+				line-color : #DDECEC black 10%
+		elseif : scree
+			define
+				min-zoom : 8.5
+				fill-color : #e9e9e9
+				fill-texture : Textures/scree.png
+		elseif : scrub
+			define
+				min-zoom : 13
+				fill-color : #C8D7AB
+				fill-texture : Textures/scrub.png
+		elseif : fell
+			define
+				fill-color : #C5FF5B black 10%
+		elseif : rock
+			define
+				fill-color : #C0C0C0
+				fill-texture : Textures/rock.png
+				//fill-texture : icons/SJJB/png/Felsgebiet.png
+		elseif : wetland
+			define
+				fill-color : #B5D0D0
+				fill-hatch : horizontal
+				fill-hatch-opacity : 0
+				fill-opacity : 1
+				line-color : #B5D0D0
+				line-style : solid
+		elseif : military
+			define
+				fill-color : red
+				fill-hatch : swne
+				fill-hatch-color : white
+				fill-hatch-opacity : 0
+				line-style : none
+		elseif : building
+			define
+				fill-color : black
+				min-zoom : 12
+		else
+			stop
+		draw : fill
+
+// areas with text / lines drawn around
+	target : nature_reserve
+		define
+			line-color : #8DC56C black 20%
+			line-opacity : 1
+			line-width : 3
+			line-style : dash
+			font-size : 3:3;12:14
+			text-color : green
+			font-weight : normal
+			text : @up(name)
+		draw : line
+		define
+			min-zoom : 13.5
+		draw : text
+		
+	target : boundary country
+		define
+			line-color : #9E1A99
+			line-opacity : 0.5
+			line-width : 6:1;9:3;10:6
+			line-style : dash
+		draw : line
+
+	target : water
+		define
+			min-zoom : 13
+			font-size : 13:11;15:14;17:17
+			font-style : italic
+			text-color : #00f
+			text-align-vertical : center
+			text-halo-width : 15%
+		draw : text
+		
+	target : glacier
+		define
+			min-zoom : 10
+			font-size : 13
+			font-style : italic
+			text-halo-width : 15%
+			text-color : #80f
+		draw : text
+
+
+

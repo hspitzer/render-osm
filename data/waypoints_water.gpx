@@ -1,0 +1,3581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxdata="http://www.cluetrust.com/XML/GPXDATA/1/0" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:ql="http://www.qlandkarte.org/xmlschemas/v1.1" xmlns:rmc="urn:net:trekbuddy:1.0:nmea:rmc" xmlns:tp1="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.qlandkarte.org/xmlschemas/v1.1 http://www.qlandkarte.org/xmlschemas/v1.1/ql-extensions.xsd http://www.cluetrust.com/XML/GPXDATA/1/0 http://www.cluetrust.com/Schemas/gpxdata10.xsd" version="1.1" creator="QMapShack 1.15.2 http://www.qlandkarte.org/">
+  <metadata>
+    <name>Water</name>
+    <time>2021-06-21T20:02:07.352000Z</time>
+  </metadata>
+  <wpt lat="42.8023731" lon="-0.1758475">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>a142647e62d910dd2c306bfe252b51b4</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.8810911" lon="-0.7063104">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>87b17ac02f9a718a0dae6402a062ea4f</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.617335" lon="1.6177807">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>53174b6394c8f538dd7d5ecd451d15cf</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.8320235" lon="-0.3143011">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>1a3ea0b13eece5246b30ad9871c4eeb3</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.7388052" lon="-0.0189855">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>9423384fe62df4ce6b58e685a24a157c</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.8337278" lon="-0.4482218">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>d12f97989bcaccceac18e39faf33e4e4</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.6992088" lon="1.2745379">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>b5a1bcf0fbf30a214762065f0c7abe2c</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.8878758" lon="-0.7085272">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>5f99ce8ba9b43684abfce50b3e05dcdd</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.6066451" lon="0.6364859">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>92b9acd963c9ea543959f401debb06d7</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.4191294" lon="2.7805996">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>6ae745ce5343e711ba03372a0f80255f</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.818847" lon="-0.1964799">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>02cf9643e2e7085d8d17bd65f9f9e03b</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.6283129" lon="1.5386839">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>783505912de667310f3049506fa5955b</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.6009218" lon="1.9436555">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>84cf3383c9bfa84443056f8699680f4c</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.8093339" lon="-0.1881186">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>911e9ee0203dda20304fc228a4f002d3</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.8138354" lon="-0.2698648">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>72b65408403aacf36c27aa256426ae22</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.7902823" lon="-0.142757">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>f19fc08c1bc102e81785a25d29cb9c3a</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.8130056" lon="-0.2293354">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>e8a925a2ebef5689fd6187aa7660104a</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.7778451" lon="-0.1218492">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>bdc2d72b5e6ca86d8d5b8908f02b9c14</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.7369706" lon="-0.0705821">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>c343b514ca8b2d023f226a0e1e6901f9</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.8142538" lon="-0.2812382">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>121975e5c5b86ecf7e3f2309c5371061</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.8340729" lon="-0.415821">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>4e4fd6c1b2890ba364f29276e084288b</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.8223183" lon="-0.5048283">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>9b4a0008c2cbf2ae4f7eab4e16504dd6</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.8319886" lon="-0.4932246">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>83faecf9cb5ac3acbb106001b0a6455e</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.8382081" lon="-0.4036657">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>df83cdd022b75475bb87e581cfa98ef8</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.8413924" lon="-0.469539">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>9bcc04a2fcd3635c7b1a774d7ec29c91</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.8785626" lon="-0.7093261">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>f71a43d01936131c9e7f850898924702</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.5994866" lon="1.9410491">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>bb92c34badb535f80f59f7c3e0f4278e</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.7447764" lon="-0.0912062">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>ff5b3113416a6bd1205c52145a69b807</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.8142576" lon="-0.1901456">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>f912386f53068949bb71322bec4f8f64</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.8376461" lon="-0.3861652">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>6d8a0a6fce10fb05ddc253c9635bb7fe</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.6088359" lon="0.6425187">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>02be8c1bd59671b18d1b791e47852809</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.7552301" lon="-0.095354">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>ad38b644e2e935cda301928b20af9851</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.8146043" lon="-0.5041664">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>8875bdbc3fc9d31200e18b3a3d33db80</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.8445945" lon="-0.3505455">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>3d821081edee782c3a9f28d25577468e</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.8348433" lon="-0.4860448">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>f47b7bb4077046659d5e1a980e9bba0a</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.7966789" lon="-0.5565258">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>0271f6a2aba1310c493a923bf4eeee0f</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.8110379" lon="-0.5852319">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>9bbf75aef0f61ab62098f2545547e820</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.8558152" lon="-0.6465713">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>fdaf549859880f7be927665712a4ed1e</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.7960532" lon="-0.1738509">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>4863d6710dfecf2cac40f57db5b9afb5</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.5971257" lon="0.7412108">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>7edb0b53c7002851540d26d68d9546e8</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.8376539" lon="-0.3144906">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>e27e60b566e901e5131a4f7f9f36173e</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.6235057" lon="0.8224323">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>64316f0d84b2d73db52e09164e0feb40</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.7076585" lon="1.453263">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>ab0dd5e08cb491fc99a1e3f6a2062c8b</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.7081713" lon="1.144998">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>773c5ba1728b937e912c9647001d4349</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.6106033" lon="0.6204613">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>ec67d9e87e4e4e9e643b564248414b9e</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.6053414" lon="0.7680095">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>636c1216690c58ae3f63c1e6900cb5d9</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.6315765" lon="0.9637522">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>d758a079174edc2459444938b8f7f969</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.6074559" lon="0.7674692">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>db61f733ed39ed681aab00e0613f854c</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.7070666" lon="1.192479">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>8edc49a9a1382ca81cb74a6198dbe763</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.7088016" lon="1.1425487">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>0e2bb190e66f8eb751a3f3b4093cd581</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.5968366" lon="0.7386811">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>cfc810db60767f9103f32978daf43d90</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.8163207" lon="-0.2030088">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>033dc58fd9c0f6ff56252ed7e5cdab80</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.6973963" lon="1.1869806">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>b9ae82659e93e3730b39673a029fc1b8</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.7057776" lon="1.2073345">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>dfb4fa5ccb3dd9d2053904d07517edf9</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.6209245" lon="1.5798315">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>cb8740925443ec137390a9da03b04717</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.6312472" lon="0.8504039">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>2b54cb6264daba9ae5960b70a3bbc4b5</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.62267" lon="0.9169048">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>a4ba43ff2196c55b8187fed326243d28</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.6991651" lon="1.2607063">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>5b336bbb901773f7ff42fe98eb3d9feb</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.6304744" lon="0.9372381">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>d11de0a5ccd1b9f66d325108668cbbea</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.6163472" lon="1.6508622">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>6854b21762dc2f66b4a6b1f20dd85de8</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.6132169" lon="1.693976">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>db9777508b5b71dcb13259998a99704a</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.4651309" lon="2.9145865">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>d1276cd19721f66db30b51d0b5c2f86a</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.7023895" lon="1.3374311">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>caa8bade3596e9c2cfd1974e1fe484b6</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.7049431" lon="1.2125853">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>1e75d5e1f5ca92f5c96c36d960992571</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.6155073" lon="1.6216133">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>674a68397481e83617b9fbf58df3dcb2</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.64566" lon="1.493534">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>dcd34c365f160de250d0573167ca4cd1</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.7046723" lon="1.0653472">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>7462d57952e15bc83156e0eccffb7ca1</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.7123906" lon="1.4324449">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>d7143af4e9e60d36f5c9e69b82b44ed0</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.6183352" lon="1.6412618">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>91a188aa2a9be23cd72890796a81e182</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.6155648" lon="1.6555736">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>d3702d8bc4bd4dd65fd83e7e2cbdae00</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.7060719" lon="1.0525571">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>36ba5a14f8b1295aa53444bd1651e32e</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.7049711" lon="1.2136609">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>61738e3a31ce7e1e6f45e3bf7fd3de1f</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.8152116" lon="-0.2187103">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>1b0cd5dc3becd9cb665ac09ad78b38bd</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.6049493" lon="1.8768032">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>57faca43751cc4028b99f8994273d749</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.6006761" lon="1.8587695">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>ca23330b3db8a7cf8b29c97dbb906cf0</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.5994884" lon="1.8531809">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>faa10ddce7054a2e60fda0c421d9a203</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.4618243" lon="2.9102918">
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>3ca793e694d34bfa242b6806f6a379dd</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.310131" lon="-1.70188">
+    <name>2017-07-12 sources d'eau à potabiliser</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>7c90ed33e59c41d7eb31eacf56b1f1d0</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.24701" lon="-1.595143">
+    <name>2017-07-13 Fontaine</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>2b6f891d83285f376757e2e99c3f1f2e</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.184617" lon="-1.537437">
+    <name>2017-07-13 Fontaine bivouac</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>2da679b73920386d07075ec00c3d098f</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.28265" lon="-1.632901">
+    <name>2017-07-13 Fontaine Lizuniaga</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>d6588daabb6357228c4f7220502ff525</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.2546" lon="-1.602881">
+    <name>2017-07-13 Fontaine Usoen Ithurria</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>1bf3861d28438ee2ae7139c170809e13</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.249479" lon="-1.599833">
+    <name>2017-07-13 robinet d'eau</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>9a60a190b93e4b9a9c10766245c857c4</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.276548" lon="-1.636391">
+    <name>2017-07-13 Robinet eau</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>5bfb120896ae1e57b57cc6108db4a622</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.301442" lon="-1.67595">
+    <name>2017-07-13 source1</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>e190ebfe91b5d7bfdf209b63b386e449</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.298466" lon="-1.634678">
+    <name>2017-07-13 source2</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>9624a26dea3a6627abe9331d5edbdab2</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.170593" lon="-1.534002">
+    <name>2017-07-14 09:00 Robinet eau &amp; table picnic</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>23158290a8759720dcc24390620b1fc2</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.117873" lon="-1.50256">
+    <name>2017-07-14 11:12 Fontaine1</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>7a04cd1ddc3bc554e7be85983edfb2d6</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.101345" lon="-1.496029">
+    <name>2017-07-14 12:02 Fontaine</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>ad565b2c8f0f59c3ee6c35abc00b72dc</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.094414" lon="-1.483297">
+    <name>2017-07-14 13:07 Robinet Casa Pablo</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>b6d0309ebbde5d7da9cf457dd76668d0</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.091854" lon="-1.397112">
+    <name>2017-07-15 11 Source faible</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>8c502101b2e6c655ff4a9a05776bec0c</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.047009" lon="-1.371282">
+    <name>2017-07-15 13:07 robinets eau</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>7f12ba3cdbbab0976f16d0497f4328b2</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.032392" lon="-1.2271">
+    <name>2017-07-15 18:53 fontaine et refuge Azpegi</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>65dbd09058752ce907907a64e5fb5caf</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.026815" lon="-1.112043">
+    <name>2017-07-16 15:46 Source tuyau</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>7f44ea7c557b02a5047ab2e38c3069e3</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.036566" lon="-1.034826">
+    <name>2017-07-17 08:38 Eau</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>0cb822b57148c679dd520568407d70c5</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.024436" lon="-1.035822">
+    <name>2017-07-17 11:05 robinet eau maison Arratzolatzé</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>5b352bb3ae7b4b2dfd01c45e996a94d2</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.018616" lon="-1.044129">
+    <name>2017-07-17 11:40 Source</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>d9369d10c4afdaa9a738f5bcf5431102</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.014501" lon="-1.039162">
+    <name>2017-07-17 11:52 Source</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>b0fc50e0283186386adf31400034a3ed</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.965059" lon="-0.93792">
+    <name>2017-07-17 19:37 robinet derrière bergerie</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>220ad76fd0bcb402e51a8e80d1e0757a</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.950181" lon="-0.86328">
+    <name>2017-07-18 11:25 Eau source</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>bc9d81816100fe82d68ac34f3026ec9b</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.94537" lon="-0.850914">
+    <name>2017-07-18 11:49 Abreuvoir tuyau eau</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>e95a78b2ed20c96ea6b6cdc822fe4f54</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.957283" lon="-0.800736">
+    <name>2017-07-18 13:07 Bar Restaurant</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>0a4e2724c014924ed191815c54e7c585</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.958801" lon="-0.705287">
+    <name>2017-07-19 10:51 Eau cabane de Baigt</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>2074d3a3b1af4eadbaea1b87be757df3</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.939536" lon="-0.677682">
+    <name>2017-07-19 13:39 source d'eau</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>d79cb0b27dca6664a3befc187d6c3005</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.909256" lon="-0.678204">
+    <name>2017-07-19 15:21 gros tuyau eau</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>8c7b0a6101763e290c5e3b6b5c899d25</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.89784" lon="-0.716567">
+    <name>2017-07-19 20:02 Eau bergerie d'Ansabère</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>d181116198ad47c0763b5029ff99da60</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.856162" lon="-0.640119">
+    <name>2017-07-20 15:08 source</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>07dffa703c334c16eeaa7b62634e41c5</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.823384" lon="-0.585676">
+    <name>2017-07-21 09 fontaine bergerie</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>640526d6b37623e6e8073248ce8b8bd4</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.799982" lon="-0.538353">
+    <name>2017-07-21 12:04 tuyau eau</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>b2eace6854d87ce302b2aafd4e8f7719</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.821913" lon="-0.502846">
+    <name>2017-07-22 10:22 Source captée</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>bd49ef7c96c7e909f58b8967e87fa599</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.840753" lon="-0.469736">
+    <name>2017-07-22 12:26 Eau cabane de Pount</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>c73866c5dee48dd2b378ea309f21c249</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.834879" lon="-0.43347">
+    <name>2017-07-22 16:01 Fontaine eau</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>7c5b3a09b46718656fe7debd226c1993</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.814997" lon="-0.222289">
+    <name>2017-07-24 16:06 Sources</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>ff4646e9aa9604c522ad0969f635968f</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.775852" lon="-0.117852">
+    <name>2017-07-25 16:45 sources</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>33889f328f694d227f97ff05d16c7a58</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.754671" lon="-0.095411">
+    <name>2017-07-26 07:54 source</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>9acddd9ae68ea90374dabaeb8ac36037</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.741279" lon="-0.03758">
+    <name>2017-07-26 10:18 tuyau eau</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>3ceb6504e7065b5245975d9d4355333a</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.721917" lon="0.000381">
+    <name>2017-07-27 08:31 Fontaine</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>e172fa1c628942b6bc6f601a78ca732a</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.723716" lon="0.04569">
+    <name>2017-07-27 12:23 source</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>443483a5741702fa1abdda97c8fa4738</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.734072" lon="0.046232">
+    <name>2017-07-27 12:47 Source</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>c07c20f9ff4a65ec7083b77139cdd175</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.75842" lon="0.097879">
+    <name>2017-07-28 10:22 Fontaine des Colombes</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>4210aa1a3f5e65c0ab725470a7575df4</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.758713" lon="0.105102">
+    <name>2017-07-28 11:00 Sources</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>e0ac6e96acd4db4dbf22b30d397f3217</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.726572" lon="0.150218">
+    <name>2017-07-28 18:39 source</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>4f8dfacb0b1c182ead2dd922f4283278</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.676773" lon="0.24808">
+    <name>2017-07-29 10:50 tuyau d'eau</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>55125a7a7dd5a4661bec2ad534e42119</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.670964" lon="0.288192">
+    <name>2017-07-29 13:27 source</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>3bc8107cc659f4e7626bb1dc66c1d096</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.655732" lon="0.336137">
+    <name>2017-07-29 16:26 tuyau eau abreuvoir</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>160e8750eb3b4dda3faef7292bbb5c78</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.652161" lon="0.349845">
+    <name>2017-07-29 17:04 Tuyau eau</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>b5b22e18cc768ef334a78b5a7578d089</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.69703" lon="0.407184">
+    <name>2017-07-30 13:13 sources</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>cc98a7eff364ff9a21c66921d10c1088</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.702923" lon="0.436718">
+    <name>2017-07-30 18:34 tuyau eau Caseneuve</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>b9d3dc4af79e379dfba396fb1cdf9095</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.690042" lon="0.556272">
+    <name>2017-08-01 13:35 sources</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>db7c9820af3d658a14b9e036bda1d5d9</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.684927" lon="0.584327">
+    <name>2017-08-01 14:54 source</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>4a96db6ffd8e969a0f5a780f9303bc3c</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.664906" lon="0.669343">
+    <name>2017-08-01 20:29 Source</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>0f01dc590dc4cb531646d082c8e62702</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.627026" lon="0.76417">
+    <name>2017-08-03 07:42 Fontaine</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>47ed517a188aa2920bf68b34cd1aa1dd</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.631302" lon="0.866606">
+    <name>2017-08-04 07:26 Source</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>f8d65c15f936e72b2dd2ff5dc9244bb3</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.680563" lon="1.013098">
+    <name>2017-08-05 12:31 source</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>58010772d9730ab99725f25901e791c6</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.70702" lon="1.061072">
+    <name>2017-08-06 11:42 Source de la rivière</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>c4e7ac7eea5b522741c3c3acb332ad94</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.707424" lon="1.062125">
+    <name>2017-08-06 11:46 Sources</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>c55a82f6808f8a744c3b802b2c345b30</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.696664" lon="1.168649">
+    <name>2017-08-07 13:48 sources</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>d2a8e8e2d7bf180b7775fc06fd995671</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.684559" lon="1.243734">
+    <name>2017-08-08 11:38 Robinet eau</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>39f8f8ab86c4b59ffa0b91fa56e88d36</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.712685" lon="1.38774">
+    <name>2017-08-09 14:38 tuyau eau</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>2501ad16135e221ef4390392c4c39e0f</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.710228" lon="1.42468">
+    <name>2017-08-09 15:59 robinet eau</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>cef0bc5b32456450dc630b2d1b275439</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.694173" lon="1.463028">
+    <name>2017-08-10 11:16 fontaine</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>2a399d5887463368fc3611f28079b286</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.629184" lon="1.537223">
+    <name>2017-08-11 20:17 Cabane + fontaine Besali</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>7f397063cfa314e9042453b5fe6e1432</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.618537" lon="1.638792">
+    <name>2017-08-12 20:00 Fontaine Cabaña Coms de Jan</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>078999336843f0cd92a8430279cc642f</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.451083" lon="2.106097">
+    <name>2017-08-16 16:57 source</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>f127b3a42d76fe295c9ae77fb924bc9a</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.418522" lon="2.225818">
+    <name>2017-08-17 11:28 source</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>0180a91b8cf0e83592d9370df51025fb</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.474388" lon="2.409986">
+    <name>2017-08-17 19:24 source moitié tarie</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>e012f1ee3bacb0df9a57451c7c579d97</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.498393" lon="2.409735">
+    <name>2017-08-18 08:35 Fontaine</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>c3ed26b3ae0abad6bb538e2e85940e81</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.503838" lon="2.445165">
+    <name>2017-08-18 10:13 Fontaine Cabane Arago</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>e84012e873b83ffb3589537175071db6</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.511667" lon="2.460393">
+    <name>2017-08-18 11:20 Fontaine Nostra</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>0ba3463292611342506cbe7a3c3c3d6d</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.493935" lon="2.636128">
+    <name>2017-08-19 13:36 Tuyau eau</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>660587f9747ea8e33e4e2963baf43898</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.421475" lon="2.747744">
+    <name>2017-08-20 16:58 Fontaine eau</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>8adf5b6e680f5e6a2ee074e1d2f538f2</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.478452" lon="2.951746">
+    <name>2017-08-21 17:54 Fontaine Pla Tagnarede</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>6654b4a2c9be90db062c64f90d9aa957</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.484025" lon="3.088452">
+    <name>2017-08-22 15:58 Fontaine</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>7a93d9108a10e126cd32e0c0a1ddf5d3</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.02641" lon="-1.0351">
+    <name>170717 Abreuvoir de Lapatignégagne</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>d59d7ba7c3a6522db36fc2e178d86ab8</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.890509" lon="-0.711297">
+    <name>Bivouac eau</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>ff451d0e436ee0c7d0dfc1c8785835ab</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.040028" lon="-1.057376">
+    <name>Bivouac pelouse ruisseau</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>96796c6d88cdf2b2e7e85cdb965ae944</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.023921" lon="-1.144066">
+    <name>Bivouac rivière</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>7b81a2c299dd0c992f71c574602a4a8e</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.037006" lon="-1.074813">
+    <name>Chalet Pedro bar restaurant robinet eau</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>a95a422317663b8cba6f265ac9860830</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.604824" lon="0.653459">
+    <name>creek</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>d09d9297976bd407261e5e8303372d05</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.621274" lon="0.910229">
+    <name>creek</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>bd48375e39b369248281e623f7c7188d</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.7144031" lon="1.4354518">
+    <name>Creek</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>710c156ff34e07fe6f9f6b25ee20f55e</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.036469" lon="-1.0749238">
+    <name>Creek</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>c89ba6f19d938611a0477ad8cdc05e9c</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.695609" lon="1.256791">
+    <name>creek access</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>dcdd12986897ad35b342843cb2edd276</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.60857" lon="0.641571">
+    <name>creek access</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>163902c71e688b1f8bf423499eb7748f</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.602479" lon="1.864708">
+    <name>creek access</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>379c36fc19e11df9541e9e86cbccc131</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.494624" lon="2.411171">
+    <name>creek access</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>3264ee994a66fd08d13c774289849ddd</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.712589" lon="1.402769">
+    <name>creek access</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>6d4353dae8fed7e0f14303edb3a794f2</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.589641" lon="1.783729">
+    <name>creek access</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>9c30f9bee1e5d3fc3de52c9e86cd5a18</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.699496" lon="1.233842">
+    <name>creek access</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>317eb976d3e400437cf0e16f3465a004</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.698611" lon="1.257313">
+    <name>creek access</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>5b9481bb3c9bf3d027f591b6f9a06061</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.633221" lon="1.513344">
+    <name>creek access</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>b8c3e1d4553fd8eda9d7f75f1ceb608d</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.607105" lon="0.646834">
+    <name>creek crossing</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>eef1eb13ec5df8632441efedcd00499b</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.9042611" lon="-0.7064236">
+    <name>Eau</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>2a89eb30d74aff55061209cf288e64cd</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.097919" lon="-1.492847">
+    <name>eau bivouac</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>93fc8f692b27c515b96fbb6958493af4</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.096824" lon="-1.457066">
+    <name>eau Bivouac</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>063255dd35ef4f8413b8916242047f23</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.819102" lon="-0.30012">
+    <name>eau de captage</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>bbe8dd11077065ad60376c188669bd54</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.9522406" lon="-0.7128192">
+    <name>Eau névé (Juillet)</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>ce02a9197ed547387b7596e33a27cef2</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.803402" lon="-0.546124">
+    <name>eau tuyau</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>a98bdbb21024fdd676cbce8c58f02958</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.795873" lon="-0.524812">
+    <name>Fontaine</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>a2b4107e2a82559be599cec746f68a5e</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.09847" lon="-1.430614">
+    <name>Fontaine</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>87a6fc43a5d205d5c987eb10b57bb8db</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.098492" lon="-1.427759">
+    <name>Fontaine</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>365812ddc0938ba726ab5dae9bcb6724</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.816977" lon="-0.28793">
+    <name>Fontaine au refuge</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>a0c6a3bc985f9578a6d035408bdd0dd5</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.04689" lon="-1.26484">
+    <name>Fontaine de Roland</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>45323d930172c17822049aa8eb35a6e4</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.4260352" lon="2.7861972">
+    <name>Fountain</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>44a57aee7b968507fe0e2c8fef1f6ad1</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.466131" lon="2.871449">
+    <name>Fountain</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>ec516322899735cf00c9852168758fd9</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.5179936" lon="2.5244658">
+    <name>Fountain at Estanyol</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>17d9dd95aeedb374f89c7b6f5ea21861</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.473123" lon="2.08119">
+    <name>Fountains</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>c9dd17bf203106bdd30f12bec7568e5d</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.912033" lon="-0.672377">
+    <name>Gaves, tables et bancs ; parking. Bivouac ?</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>a2d485eb193a0cd78f3fd3e21e708aa2</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.429907" lon="2.270723">
+    <name>good stream here
+dry below
+</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>3dd2c63205d82fca6094811c7fa61ac2</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.705659" lon="1.193353">
+    <name>lake exit water</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>f65579072c15066798fee1a4ced91dce</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.62342" lon="0.887321">
+    <name>lake outlet</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>b81ebf499a695c6afadf1134dd08c226</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.599367" lon="1.95749">
+    <name>many streams</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>cd5b676ed92751e965e78aff55c69f03</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.447686" lon="2.694697">
+    <name>no public water at Can Felix !</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>1a3812f7bd2c1f529dc7a92f153bc116</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.873979" lon="-0.67608">
+    <name>Petit ruisseau Bivouac</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>854baefd4aef65d5118f8cfeb998f2af</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.9055462" lon="-0.6911154">
+    <name>Rivière</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>701e20d465b37fed86a33856c9e2254b</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.04019" lon="-1.183951">
+    <name>Rivière</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>d9e4056e8d5bcb29c28ee9b33e757de9</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.95693" lon="-0.701782">
+    <name>ruisseau</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>9ee109df410a41c6a105f91dbbf463c9</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.892355" lon="-0.715689">
+    <name>ruisseau</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>dc7eecb18b973cee57b1891fb2e4ad45</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.80385" lon="-0.560678">
+    <name>ruisseau</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>e3d389b6b5e361e1441cd9a0138d05a5</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.94829" lon="-0.692238">
+    <name>ruisseau</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>7a256e135917c0fb50dc4146a939167a</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.80243" lon="-0.55947">
+    <name>ruisseau</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>73c56982b240f17c98ccabe2bf2ba8b5</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.267926" lon="-1.629791">
+    <name>ruisseau</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>62a33426011a2d07195b97f78ee5bcf9</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.013261" lon="-1.03817">
+    <name>ruisseau</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>fd43f2b4254323190f1cba3be02a8637</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.894444" lon="-0.717923">
+    <name>ruisseau</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>3405c6edd17cfa6e9b87810f64ec3d4c</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.797852" lon="-0.534352">
+    <name>ruisseau</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>6a4912ccb5a2a2ca9a3edda272a53c06</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.824603" lon="-0.581842">
+    <name>ruisseau</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>f52e0529f323a36c0441044e6f279d75</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.9426354" lon="-0.6793633">
+    <name>Ruisseau</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>3e06fdd6d299505ae94a9e2b2a63a216</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.9522786" lon="-0.690453">
+    <name>Ruisseau</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>8582a92d9ece3925a2699c67d7615f3e</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.040436" lon="-1.192685">
+    <name>ruisseau à filtrer</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>828a5550d1e0c01fe17a6fd994f9ae1d</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.038647" lon="-1.178077">
+    <name>ruisseau abreuvoir</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>9f5bc0f714a4f73754ac8d8e813f71e7</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.021786" lon="-1.33057">
+    <name>ruisseau propre</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>31e83ec509c5aa0570144a443a1b613c</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.035383" lon="-1.165582">
+    <name>ruisseau propre</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>d727ed813e14b1c61cc19cdfb4ee5906</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.840254" lon="-0.371484">
+    <name>several small streams up to here</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>53a73077c0517007f3b80ba73a311dbc</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.628843" lon="0.782944">
+    <name>small spring</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>e9cb4100db165e1ee37ad5a862055bbf</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.876939" lon="-0.707116">
+    <name>small spring</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>df67cbe1bd65e8a227037c8fd9b70c69</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.605038" lon="0.663984">
+    <name>small stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>b15e7731a5ed40dfa81b1b86e46a1952</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.631068" lon="0.848866">
+    <name>small stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>326124846ed19fdcb02e368e7c3dd6ab</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.591112" lon="1.809505">
+    <name>small waterfall</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>963baac429a303093a6a3fe3f8682f95</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.043786" lon="-1.183897">
+    <name>Source</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>1f1513d2a1e30d2fa8bb268edab9e610</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.741955" lon="-0.060905">
+    <name>Source</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>80998df56c98bf6eeb127e6daf411a32</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.765197" lon="-0.112551">
+    <name>Source</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>c14f7c2f8a8425c75b7f57436d6a9bbe</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.820672" lon="-0.303937">
+    <name>Source ?</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>d5645e1aa3920d5045e586544c57f7c9</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.7379798" lon="0.1395923">
+    <name>Source de la Barroude</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>eea0ebdb59d2d0d4666ffe1de96b98d7</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.892283" lon="-0.715388">
+    <name>Source et Bivouac</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>16e4825892a7b02042a1a9adb8d3a865</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.093838" lon="-1.402817">
+    <name>Source ruisseau</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>2a9a2670020c22b851feb9bc63aa2701</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.616898" lon="1.739988">
+    <name>spring</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>e3e30113ff827ceb0727b32c736eaea4</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.70543" lon="1.33956">
+    <name>spring</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>67eb5ee8f0ff1a3f769125d7f89a3ab7</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.622011" lon="0.904682">
+    <name>spring</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>d70c9c547362664ed65066feb0d3c498</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.831396" lon="-0.315799">
+    <name>spring</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>6a68d795cbd7abd5791edb70cb88039c</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.615877" lon="1.625005">
+    <name>spring</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>c67038d9968f1fbd679094fdcd7bba0c</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.522153" lon="2.489881">
+    <name>spring</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>08a2a98ebdd85cc7a8af4a0f99e9547c</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.691221" lon="1.026047">
+    <name>spring</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>a3945107457370fbd42670f006ab712d</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.604518" lon="1.780636">
+    <name>spring</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>b2580c07e09fd12fad0fc53a644c7e1f</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.628927" lon="1.54875">
+    <name>spring</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>eea05de4b8f842e753f1ea6336c8997c</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.622246" lon="0.839531">
+    <name>spring</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>3386bd75f462f782c613f70707367f66</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.610774" lon="1.777042">
+    <name>spring</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>ea7f0b31c30f7c8f406eb07f1fe4bd32</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.5769919" lon="1.9937267">
+    <name>Spring</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>c62ca6dc3ae7fc66f833c260891ff3ae</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.533682" lon="2.454372">
+    <name>Spring</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>b400237b5a2833c77a306b165f6d8c0c</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.4202913" lon="2.2496598">
+    <name>Spring</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>e651af75199d9f9d0b8b16719e669c51</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.515942" lon="2.518981">
+    <name>spring below trail</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>db93ad4cc4f7fda881b6a4091a04ebef</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.499377" lon="2.4389">
+    <name>spring pipe</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>4f49e565da5ef2aa6d76e04c8b1c0233</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.707349" lon="1.194023">
+    <name>springs</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>2171c018156ddef13dbf72dc9394beff</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.597476" lon="0.74463">
+    <name>springs</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>fbf0ad550ddb8d063dc53ab77d2173db</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.511303" lon="2.549322">
+    <name>springs below trail</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>0fb58806edbdd5690c2cc5ddaf6bf2cb</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.427762" lon="2.32336">
+    <name>Springs below trail</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>5826aceea45b45f7caa91efe6b30ed24</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.81119" lon="-0.251413">
+    <name>steam crossing</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>d0ca52f0ba6d2f2f0ef90d9d2e6d60f9</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.594453" lon="1.787266">
+    <name>Steam crossing</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>ca3d6cb7913ffcddef66f06d7f03fcb2</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.715511" lon="1.127569">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>f16367221de9ec63a3eb5ad092875e74</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.612127" lon="0.615764">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>b5038c576fc6994355a1ef33defd7c61</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.631605" lon="0.786865">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>7b56ca9a06b7680d605db97d2ea35b86</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.596161" lon="0.736168">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>722b2eb1010bff08c4fc1638da934e38</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.589111" lon="0.707734">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>a8b44d15dac70c42e836b7d38ec88396</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.600364" lon="0.765106">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>8e051ecea28a35f0b756d7dc94591822</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.834771" lon="-0.317331">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>3f893f8cedade589feb759366906e87b</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.60558" lon="0.668916">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>febbc9047b5262e10208c58926f3a238</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.510612" lon="2.523953">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>152fe40402e60762f72588a91925ece3</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.790676" lon="-0.138822">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>94a8d27f09fc496f344ec451ded32ee2</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.598094" lon="0.680232">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>43a345d25905c8a12faeb05d5e7443d1</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.629005" lon="0.775089">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>7073edd85094b032d405494c94a580e4</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.785854" lon="-0.133575">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>1eacbe9bd63357ea990bc48d2b10b5a2</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.592585" lon="0.726643">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>6d59dee81563db682adc8974126848ad</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.596186" lon="0.733852">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>5f1d93f910148f06d1c808a066c929c5</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.628769" lon="0.778549">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>122a9c632bfe13d4041e374d4c8ac503</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.788536" lon="-0.137166">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>0379bc99e595317a98820335f36ba0b6</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.61991" lon="0.834103">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>1e3f503fd8181be31a8af9a198fa793d</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.705394" lon="1.211668">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>fb003530101a1c9c24a468c0f15f5fe1</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.518147" lon="2.488358">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>aae7b565243378f3e758e185452639de</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.768735" lon="-0.119264">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>11cb73da461eb48d8dac93915aba10ef</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.789686" lon="-0.148962">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>440e1a8a47e0c1f6bf2b85f3834b1309</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.807809" lon="-0.182011">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>619479b4dfcd495f0849c7f91d5f760c</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.631219" lon="0.851967">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>6f37aab091569ad763c3882f2df1fc08</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.625106" lon="0.844032">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>2e233f91033d97314690c9369fe34d42</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.517109" lon="2.501222">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>b5cd27b13bc3d7abc11a167146e1290f</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.741886" lon="-0.05776">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>3871b737deecb4c9eb74cb30d2f0311d</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.812265" lon="-0.259604">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>362d0b6afbe57eaf28fe099811be4af2</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.838411" lon="-0.455454">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>ed6f83330a8968aa1ca34aef66d63504</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.63267" lon="0.965315">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>5d99b4dfe6e433f7a14cca82f8cc7ca2</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.749546" lon="-0.09186">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>eb1d38c2cb2d8df7aeeeb1c539e9dc28</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.698316" lon="1.234869">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>7bf9ec68573849c2255acbb3163de1ea</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.513239" lon="2.525427">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>2f73a8133da0995737570545d664fb2a</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.514009" lon="2.514839">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>7338ea18d197f97f43fee568631162bb</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.438523" lon="2.810106">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>1ddedf99d7e03b06ade15b8a134bc33b</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.816833" lon="-0.212468">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>83b3bb369a442bf0b9466eadad45c731</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.630746" lon="0.787956">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>c2d25fb66c0e5566a13f4d58dd4ae368</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.542198" lon="2.038023">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>daea28e361386fa3ab3d1b0c8f1bdef3</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.591398" lon="0.699147">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>1c821ba242adf8544164a963476d42fa</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.517345" lon="2.509359">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>315e93ae218dcd7bcf1f746db966330c</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.628586" lon="1.547402">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>9fd26906d5d485fc82516b0377ad30ca</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.711074" lon="1.13914">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>df9e0a7d48d44e2ce9c19bd908ceb7cd</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.610274" lon="1.89406">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>693e04670d67813bb82199b446206133</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.608362" lon="1.886624">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>23e587070d8afe9a08ccdcbc384bf53e</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.697482" lon="1.040268">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>1bd0c7e573da56774d9a95e1d5920fcd</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.653469" lon="1.500879">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>e74981213fdea8c562b11094bc992e74</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.791737" lon="-0.160119">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>e158966be0e0a121b94a05b266d399e8</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.599017" lon="1.82423">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>1a2363236386a30a3a119d1f6d457011</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.599951" lon="1.915528">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>827f2ad16dde8df0c3a093520612c026</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.697981" lon="1.271456">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>536bc079e6fa5cabe8624daa089136be</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.508253" lon="2.453938">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>5ce8ca6dc6e398a87c65996c1fb95b37</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.606238" lon="1.906244">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>0fb87fa88ed380c73c72cd8fb0c6d1b7</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.46101" lon="2.0912">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>2743701589395a198ab7ad7b40beae7a</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.65054" lon="0.973878">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>e9c7c3c917acebdb9da36396b4585e45</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.793728" lon="-0.172734">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>87f134956bb1d6414a9333711ddf208c</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.417759" lon="2.22321">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>fb0bf202a43b93ccdc4b625c09ab89d3</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.714132" lon="1.132212">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>bf0716cb4d11c58b315dfe8c4b9c6302</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.608804" lon="1.883954">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>a7f06f4371c489e738d47fb5f7f4c067</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.70859" lon="1.373607">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>ef148eee03eb6429c1e0c0039f5cfd14</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.706236" lon="1.339896">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>23e2db55894330c139816c57bfc673e8</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.653761" lon="0.9753">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>3d64356bb76f6d623e14ff88180003ff</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.418771" lon="2.227152">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>9682b8da19d391ece3faa6d8657ca0a9</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.618045" lon="1.59825">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>616faff8f06355a614c9c7c0263b41d1</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.715025" lon="1.129728">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>671495db3d861e8857fcf828eabb7130</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.606289" lon="1.712914">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>cf359b4a885e7d057acb86ccba20442e</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.705468" lon="1.289947">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>86d0c4379d3a9a0d1f8d52cc1e9c10bc</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.701508" lon="1.225381">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>55379e1447bbd70265827ba54e599df9</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.684976" lon="1.02019">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>01894bcd034235f5b4fab3a958a9eb05</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.789756" lon="-0.145837">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>92af7dece91dd7b691757b1415080cfc</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.703126" lon="1.147779">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>79c2c49a070c62f20dbfbb265501b89d</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.50357" lon="2.43845">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>8c31e8acb53b510ba865366a8f4cde68</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.647186" lon="1.495083">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>a9b32e3d41f924b745caa0801723c14c</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.615518" lon="1.654542">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>46870ec93db9948f36a613460f6b0a49</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.6297084" lon="0.9618527">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>80f8598df636a929b0dc76d7e2c1c193</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.716202" lon="1.125542">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>3f685d5e7ec3da35891871a1e6d441cf</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.688366" lon="1.021728">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>861030a8e15209d2a5755c6cad0a449d</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.598125" lon="1.837582">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>a59bcd4571b3c907dbc29d1ad1ec5f21</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.633312" lon="1.528389">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>d0fffadd1fad94c4919b908b9cf5a30e</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.590396" lon="1.80803">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>b7526ca17385bbece867e156ccde1806</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.700479" lon="1.227989">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>90b776b4b70a57a5d640409044e1a7b3</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.707322" lon="1.342735">
+    <name>stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>19ad1b3279775d638de3649ee37d022a</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.598003" lon="1.923509">
+    <name>Stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>ff27a251e97412d3a6173552f620bdfe</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.6123178" lon="1.6941187">
+    <name>Stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>cf14887c83e41ea949329ef9df921967</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.7563774" lon="0.1102075">
+    <name>Stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>46cd55167b4f6f14801ec99a9e534c60</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.5838241" lon="1.9917761">
+    <name>Stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>46b2901cee5ac6df7a456eced41fdc54</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.6007675" lon="1.9537613">
+    <name>Stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>feafc7032eba0c369b73672427d410bb</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.703486" lon="1.359141">
+    <name>stream access spring</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>981ca008e235523131f63ea6183eb390</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.594472" lon="1.966602">
+    <name>stream crossing</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>f5f04f04189a5da3a9510b6984346a2d</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.519134" lon="2.48673">
+    <name>stream crossing</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>67c4282c87913748e11460e2970ec45e</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.705816" lon="1.067325">
+    <name>stream crossing</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>84c0cf7cb23c6b993b32bb074e241104</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.619885" lon="1.588352">
+    <name>stream crossing</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>1d98c37c5c0914b8688cd3e5f7744fa1</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.634828" lon="1.516819">
+    <name>stream crossing</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>5d2eaf8d80378709b6565ebcb3c8836b</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.706662" lon="1.295142">
+    <name>stream crossing</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>c27d6dbe49a295bcc6d40cb0cb5c9b38</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.589897" lon="0.702619">
+    <name>stream crossing</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>d49321b340d75ec8e44ce6cb8a224bfa</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.62838" lon="0.960505">
+    <name>stream crossing</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>54dcde97614314079f917fbaf390f0c9</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.499521" lon="2.4395124">
+    <name>Stream Crossing</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>3d5e3ec2720f79b84d460363720c3826</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.485856" lon="2.412144">
+    <name>stream from spring above</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>ff09b0bfbe1f68c17ccd05603bc64f64</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.641525" lon="0.971688">
+    <name>stream parking</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>32981f2cda768c2013ecc4967abe6c9a</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.425906" lon="2.14029">
+    <name>stream spring</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>9987ae867d81ac6dd07a8531c613159d</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.498858" lon="2.430329">
+    <name>stream with pipe</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>5dfce903b7f680b248830a7b29b82603</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.598082" lon="0.682706">
+    <name>streams</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>d9b5b6ae517b51faac33e81f11bec9f3</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.458316" lon="2.095951">
+    <name>streams water channel</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>04059409624f182d13762cfcaa8269aa</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.077747" lon="-1.387235">
+    <name>surplus captage eau (fiable ?) - Bivouac</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>55a36002a4272ca7c7b2d232f2d7a741</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.889189" lon="-0.709724">
+    <name>tent site water</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>363e57e0e8d647633aac546c13b83c6a</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.942333" lon="-0.689004">
+    <name>tuyau abreuvoir</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>53064238848f7e1a1c9bedb046410499</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.620344" lon="0.831051">
+    <name>very good spring</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>b1361e1aca972be272a4cb45065f584a</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.9557939" lon="-0.6996414">
+    <name>Water</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>6a07c43ca2ae8ad1fc164450535daff7</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.51889" lon="2.508964">
+    <name>Water at Pinateil Hut</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>1af8f06e9fc6b3a381cadfc55c06eb2a</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.5067813" lon="2.0797825">
+    <name>Water Faucet by Boulodrome</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>22782255b1ea754d2614219bfd664c96</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.675133" lon="1.476878">
+    <name>water limited tent sites</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>a876bc8616c1aeb42473f9ad4efd4395</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.664837" lon="1.487361">
+    <name>water pipe</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>1077761560e47d8e2424501c8e0a1ed6</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.592661" lon="1.811374">
+    <name>waterfall</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>f03fe1cd46bf77c645b34375e12962e3</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.428517" lon="2.320113">
+    <name>Weak spring but steady
+Below trail ; Kerns
+</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>2a64b7649eac95418dcec2c17ac00c4c</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.433667" lon="2.715842">
+    <name>weak spring in August 2020</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>e681253f66def9a4d6f564564f9853fd</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.433008" lon="2.717369">
+    <name>weak spring in August 2020</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>645e338a2ae3065ab9480bb86fb895e5</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.60663" lon="1.707812">
+    <name>weak stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>d5eff58099e194146c7ea7cc62798332</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.618409" lon="1.764005">
+    <name>weak stream</name>
+    <cmt>water</cmt>
+    <extensions>
+      <ql:key>3aa850ab49ed7805047a8d643921cda0</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <extensions>
+    <ql:key>8fad65b16c2eb8059800733d5de390a9</ql:key>
+    <ql:sortingRoadbook>0</ql:sortingRoadbook>
+    <ql:sortingFolder>0</ql:sortingFolder>
+    <ql:correlation>1</ql:correlation>
+    <ql:invalidDataOk>0</ql:invalidDataOk>
+  </extensions>
+</gpx>

@@ -1,0 +1,11 @@
+use-ruleset location=render_osm/scripts/HikingHannahHRP.mrules as-alias=hs
+apply-ruleset
+
+load-source render_osm/data/waypoints_bivouac.gpx
+load-source render_osm/data/waypoints_food-resupply.gpx
+load-source render_osm/data/waypoints_water.gpx
+load-source render_osm/data/HRP_variants.gpx
+
+//run-python hm-render-maperitive-hrp-webmap.maperi.py
+//run-python hm-render-maperitive-hrp.maperi.py
+run-python render_osm/hm-render-maperitive-hrp-large.maperi.py

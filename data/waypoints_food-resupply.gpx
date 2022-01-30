@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxdata="http://www.cluetrust.com/XML/GPXDATA/1/0" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:ql="http://www.qlandkarte.org/xmlschemas/v1.1" xmlns:rmc="urn:net:trekbuddy:1.0:nmea:rmc" xmlns:tp1="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.qlandkarte.org/xmlschemas/v1.1 http://www.qlandkarte.org/xmlschemas/v1.1/ql-extensions.xsd http://www.cluetrust.com/XML/GPXDATA/1/0 http://www.cluetrust.com/Schemas/gpxdata10.xsd" version="1.1" creator="QMapShack 1.15.2 http://www.qlandkarte.org/">
+  <metadata>
+    <name>Food Resupply</name>
+    <time>2021-06-21T19:50:48.691000Z</time>
+  </metadata>
+  <wpt lat="43.0948694" lon="-1.4254086">
+    <name>Auberge Erreka Gorri</name>
+    <cmt>food</cmt>
+    <extensions>
+      <ql:key>100adee3fad0bde8a877f73335d4e2c4</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.096209" lon="-1.426028">
+    <name>bar restaurant Alfaro Ostatua</name>
+    <cmt>food</cmt>
+    <extensions>
+      <ql:key>7c4b3e5f5d34130441776c52784b07fc</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.1437807" lon="-1.518995">
+    <name>Bar-Restaurante Eguzkialde</name>
+    <cmt>food</cmt>
+    <extensions>
+      <ql:key>02cfa3cb7dd51cecb6b1e92012545f17</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.754312" lon="0.049847">
+    <name>Buvette Les Gloriettes</name>
+    <cmt>food</cmt>
+    <extensions>
+      <ql:key>399b98f16fe786a4c94e138a18726e9e</ql:key>
+      <ql:flags>6</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <ql:history>
+        <ql:event>
+          <ql:icon>://icons/48x48/Start.png</ql:icon>
+          <ql:time>2021-06-21T19:50:48.694Z</ql:time>
+          <ql:comment>Initial version.</ql:comment>
+        </ql:event>
+        <ql:event>
+          <ql:icon>://icons/48x48/EditText.png</ql:icon>
+          <ql:time>2021-06-21T19:57:22.704Z</ql:time>
+          <ql:comment>Changed name</ql:comment>
+        </ql:event>
+      </ql:history>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.4271958" lon="2.2653823">
+    <name>Cafeteria Vallter 2000</name>
+    <cmt>food</cmt>
+    <extensions>
+      <ql:key>73d91e8342e81204c909dd2fadbe4f4b</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.4271958" lon="2.2653823">
+    <name>Cafeteria Vallter 2000</name>
+    <cmt>food</cmt>
+    <extensions>
+      <ql:key>fcf06021cea815be4d24ea2e0b71f77c</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.6639428" lon="0.9806005">
+    <name>Cap del Port</name>
+    <cmt>food</cmt>
+    <extensions>
+      <ql:key>67e820353e4e5c50a20a6f9c5b17255b</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.5152169" lon="2.0615092">
+    <name>Casino supermarché</name>
+    <cmt>food</cmt>
+    <extensions>
+      <ql:key>849eaf6b41ef5273496ec1ee946e2c16</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.4614666" lon="2.8643389">
+    <name>Centre comercial Tramuntana</name>
+    <cmt>food</cmt>
+    <extensions>
+      <ql:key>c057a0e8ccbd18fffb1fa31430ede7e0</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.803241" lon="-0.558844">
+    <name>Cheese for sale</name>
+    <cmt>food</cmt>
+    <extensions>
+      <ql:key>e8d31462226d7464b112cf2f2003bbfe</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.897673" lon="-0.716195">
+    <name>Cheese if shepherd nearby</name>
+    <cmt>food</cmt>
+    <extensions>
+      <ql:key>7060da64f292251cab61800dd83636b5</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.934072" lon="-0.63505">
+    <name>Chez Maud&amp;David</name>
+    <cmt>food</cmt>
+    <extensions>
+      <ql:key>3b065ca97fca1bf1c836c49d61eda093</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.3311111" lon="-1.6596278">
+    <name>Departure Venta Yasola</name>
+    <cmt>food</cmt>
+    <extensions>
+      <ql:key>d1bdee4504dc5af0d23a31a90e04047e</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.1424129" lon="-1.521011">
+    <name>DIA Elizondo</name>
+    <cmt>food</cmt>
+    <extensions>
+      <ql:key>e038cbcde161c4f25c326b4d1559a1bf</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.094034" lon="-1.425272">
+    <name>Fromagerie des Aldudes</name>
+    <cmt>food</cmt>
+    <extensions>
+      <ql:key>6eab64b6c0861ede0a1e75613395699a</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.665123" lon="0.2115998">
+    <name>Grand-Supermarché Solans</name>
+    <cmt>food</cmt>
+    <extensions>
+      <ql:key>22f15e4e56acb6a8e811a91f2b4be8c0</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.665123" lon="0.2115998">
+    <name>Grand-Supermarché Solans</name>
+    <cmt>food</cmt>
+    <extensions>
+      <ql:key>22f15e4e56acb6a8e811a91f2b4be8c0</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.5884907" lon="1.7984822">
+    <name>Hospicerie</name>
+    <cmt>food</cmt>
+    <extensions>
+      <ql:key>74d41c1eecca6e2e790c6c6e4fa8019b</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.8098372" lon="-0.5043871">
+    <name>Ibones Snack Bar</name>
+    <cmt>food</cmt>
+    <extensions>
+      <ql:key>2b326ad6f5f41c87aa05e182e87f4fe8</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.0444097" lon="-1.0740306">
+    <name>Kayolar</name>
+    <cmt>food</cmt>
+    <extensions>
+      <ql:key>1a77d1b2e31957ed37a15d40472c3ccb</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.4743474" lon="2.0801512">
+    <name>L'Épicerie d'Eyne</name>
+    <cmt>food</cmt>
+    <extensions>
+      <ql:key>8b5d301835c63f1b5f29108d279debd3</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.5896828" lon="1.7996167">
+    <name>Le Fournil De Louise</name>
+    <cmt>food</cmt>
+    <extensions>
+      <ql:key>66fa4cd940ab721a61885df97c888c6d</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.7236063" lon="-0.0084852">
+    <name>Le Pailha</name>
+    <cmt>food</cmt>
+    <extensions>
+      <ql:key>17e0ca322cda5e6cf7a19e0fdb5e5a52</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.5604397" lon="1.9968886">
+    <name>Les Bones Hores</name>
+    <cmt>food</cmt>
+    <extensions>
+      <ql:key>ec1b7d024013ddac83bf795838cd7d6b</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.715593" lon="1.449674">
+    <name>Marc Holiday Village</name>
+    <cmt>food</cmt>
+    <extensions>
+      <ql:key>df90e672aadb63e431e3324f93c44b16</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.0367361" lon="-1.0747408">
+    <name>Restaurant Chalet Pedro Iraty</name>
+    <cmt>food</cmt>
+    <extensions>
+      <ql:key>b4685283cff762a4b7db1dece46f73f4</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.0384939" lon="-1.0266105">
+    <name>Restaurant Iraty</name>
+    <cmt>food</cmt>
+    <extensions>
+      <ql:key>c93db6468a4daba950f5f2f86315be11</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.6017821" lon="1.6876546">
+    <name>Restaurant l'Ovella Negra</name>
+    <cmt>food</cmt>
+    <extensions>
+      <ql:key>5dee669687a94d36720c1d2e7211b20f</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.6290764" lon="1.4979557">
+    <name>Restaurant Planells</name>
+    <cmt>food</cmt>
+    <extensions>
+      <ql:key>9dce0d9e6866bae7ef55d7c7526525a8</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.2827647" lon="-1.6322681">
+    <name>Restaurante Lizuniaga</name>
+    <cmt>food</cmt>
+    <extensions>
+      <ql:key>73f89d938035a40865fb3e4687a8151e</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.0486196" lon="-1.0730927">
+    <name>Snack Bar Chalet de Cize</name>
+    <cmt>food</cmt>
+    <extensions>
+      <ql:key>373297a11c589cb0b08f2eaeb0abd605</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.7879726" lon="-0.5303991">
+    <name>Supermercado Azon</name>
+    <cmt>food</cmt>
+    <extensions>
+      <ql:key>39d08abe616ccdd81c466bf50d77c361</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.7073911" lon="0.9027079">
+    <name>SUPERMERCADO SOL Y NIEVE</name>
+    <cmt>food</cmt>
+    <extensions>
+      <ql:key>35b825f97489a507a0a6aa856cea0663</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.6999174" lon="0.9308422">
+    <name>Supermercat Carles</name>
+    <cmt>food</cmt>
+    <extensions>
+      <ql:key>255d3afd40d5deaca35063c44a246996</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.542446" lon="1.733018">
+    <name>Supermercat Central III</name>
+    <cmt>food</cmt>
+    <extensions>
+      <ql:key>3ae872e2e2a62c483a0908be37243132</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.70314" lon="0.79195">
+    <name>Supsa Supermercats Pujol S. L.</name>
+    <cmt>food</cmt>
+    <extensions>
+      <ql:key>be096bb43d81f4b81934f5b871f134dc</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.5032576" lon="2.0774591">
+    <name>Utile Superette </name>
+    <cmt>food</cmt>
+    <extensions>
+      <ql:key>d589e8bc04677cf8ca014f5afd1ff782</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.4264403" lon="2.2642687">
+    <name>Vallter Foodtruck</name>
+    <cmt>food</cmt>
+    <extensions>
+      <ql:key>1a33d2c86a371a0e9f4e3fe8542de046</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.2607587" lon="-1.6194855">
+    <name>VENTA LIZARIETA</name>
+    <cmt>food</cmt>
+    <extensions>
+      <ql:key>11d0231677413e09771ab1727b279098</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.732904" lon="-0.0095539">
+    <name>Vival</name>
+    <cmt>food</cmt>
+    <extensions>
+      <ql:key>58e1ef403cfe7dcc730d08f62ddc3db5</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.4734466" lon="2.6696351">
+    <name>Vival</name>
+    <cmt>food</cmt>
+    <extensions>
+      <ql:key>e06457810080c75c8366e7e88b1fed1d</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <extensions>
+    <ql:key>d51564dfb06e78e85436714bb22ae4fa</ql:key>
+    <ql:sortingRoadbook>0</ql:sortingRoadbook>
+    <ql:sortingFolder>0</ql:sortingFolder>
+    <ql:correlation>1</ql:correlation>
+    <ql:invalidDataOk>0</ql:invalidDataOk>
+  </extensions>
+</gpx>

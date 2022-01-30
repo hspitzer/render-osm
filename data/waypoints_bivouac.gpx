@@ -1,0 +1,2912 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxdata="http://www.cluetrust.com/XML/GPXDATA/1/0" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:ql="http://www.qlandkarte.org/xmlschemas/v1.1" xmlns:rmc="urn:net:trekbuddy:1.0:nmea:rmc" xmlns:tp1="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.qlandkarte.org/xmlschemas/v1.1 http://www.qlandkarte.org/xmlschemas/v1.1/ql-extensions.xsd http://www.cluetrust.com/XML/GPXDATA/1/0 http://www.cluetrust.com/Schemas/gpxdata10.xsd" version="1.1" creator="QMapShack 1.15.2 http://www.qlandkarte.org/">
+  <metadata>
+    <name>Bivouac</name>
+    <time>2021-04-11T13:59:46.693000Z</time>
+  </metadata>
+  <wpt lat="42.6941353" lon="1.4628181">
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>c134075da34c3d91e635e2aa0ec9fcf9</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.5971533" lon="0.7410258">
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>37b7d82dd2d78600fc844f54ac9ee7db</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.5981482" lon="1.9216828">
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>0980ee276ee4acb877e7f610f468b37c</ql:key>
+      <ql:flags>2</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.6777444" lon="1.4725099">
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>a801530993f6c3c6a17c4334a14e552b</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.674709" lon="1.4771215">
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>5fb20e07eef7094739fba6dc216caa2d</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.596806" lon="0.7389426">
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>1a8a3e15d97838611436739abfbf8986</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.8739214" lon="-0.6760064">
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>cd3bb128cef1bd981284485752f8a211</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.7125818" lon="1.432571">
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>c3856733bd4fcbc49c8fdcfc247ab15f</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.83444" lon="-0.448981">
+    <name>5 star many tent site water</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>154c445bf06299b162524b513b29d3d5</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.0285617" lon="-1.3547955">
+    <name>Abri</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>9872ff1500fcd3ff3ecb422cc6e806f1</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.5156989" lon="2.0764399">
+    <name>Abri</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>5dcb42efc1a64c74e9e9c41389f4ac01</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.037565" lon="-1.173196">
+    <name>abri cabane</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>21260daa4bb056bb9d6e6ea962072992</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.599952" lon="1.850317">
+    <name>abri cabane 6 pers ouvert</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>943488b3b6b8c967d9fa6dae395387be</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.615456" lon="1.7695">
+    <name>abri entrée tunnel</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>811e8f6cdf97125a9594599a388add01</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.26869" lon="-1.642534">
+    <name>abri étable pelouse</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>827560930cddbc083984ef30c0e89f37</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.693983" lon="1.462906">
+    <name>abri tables banc tent site orris</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>d5dddd31f91486711c4829fc1826d196</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.812466" lon="-0.561504">
+    <name>Anglus Hut open</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>09ffbe8b0593fb93ad5a5beff759b678</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.83463" lon="-0.485733">
+    <name>another 5 star tent site</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>51424b0cf4baa9ac3e4086076cd9e6b7</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.025727" lon="-1.337876">
+    <name>Auvent de cabane</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>4e9b7485b34930525ae4b09d13cda105</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.020212" lon="-1.324196">
+    <name>Auvent église abri</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>5cc081a72b1b2ef9ea903d58242f603a</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.418247" lon="2.209601">
+    <name>Basic shelter
+Rocky ground</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>006f1e37b722fd0a422ce59e8bb7042a</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.904288" lon="-0.7065">
+    <name>Beautiful tent site by stream</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>88e30770154f06d1af4ef82037b7e65b</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.63144" lon="0.964082">
+    <name>beautiful tent sites by creek</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>1bd8568ee5afa814157cf78ac646a38a</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.461755" lon="2.861058">
+    <name>bench shelter</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>b2bf6c1dad122b8c8ec7f3a454cbde6b</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.70804" lon="1.145027">
+    <name>better tent sites by creek</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>b395fc0c239c9e8d8b419150ce3f10e5</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.421394" lon="2.747982">
+    <name>Big Fountain Shelter</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>ad215b9b72270c9b534255fe518658f6</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.317022" lon="-1.716809">
+    <name>Bivouac</name>
+    <cmt>bivouac</cmt>
+    <sym>Default</sym>
+    <extensions>
+      <ql:key>c7088ff0be6dfd5f6570dc409329947f</ql:key>
+      <ql:flags>6</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <ql:history>
+        <ql:event>
+          <ql:icon>://icons/48x48/Start.png</ql:icon>
+          <ql:time>2021-04-11T13:59:46.704Z</ql:time>
+          <ql:comment>Initial version.</ql:comment>
+        </ql:event>
+        <ql:event>
+          <ql:icon>://icons/waypoints/32x32/Default.png</ql:icon>
+          <ql:time>2021-05-02T16:09:21.795Z</ql:time>
+          <ql:comment>Changed icon</ql:comment>
+        </ql:event>
+        <ql:event>
+          <ql:icon>://icons/waypoints/32x32/BoxRed.png</ql:icon>
+          <ql:time>2021-05-02T16:09:52.930Z</ql:time>
+          <ql:comment>Changed icon</ql:comment>
+        </ql:event>
+        <ql:event>
+          <ql:icon>://icons/waypoints/32x32/Default.png</ql:icon>
+          <ql:time>2021-05-02T16:11:23.012Z</ql:time>
+          <ql:comment>Changed icon</ql:comment>
+        </ql:event>
+      </ql:history>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.028558" lon="-1.354949">
+    <name>Bivouac abri</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>26e94c201fe4c000c5b423bcd18e6808</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.0944309" lon="-1.4830751">
+    <name>Bivouac de luxe eau table bancs pelouse</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>e52f7542dd9ac25aa52624b56f88a87c</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.040454" lon="-1.049206">
+    <name>Bivouac pelouse</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>fb3584dea8af51a2574b7c0f4b49b126</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.6037546" lon="1.782795">
+    <name>Cabaña de Brougnic</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>baa39fbe068f3ba90644c54c1ae6c587</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.63358" lon="1.511238">
+    <name>cabane abri ouverts</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>ef6f3ee9726a1730ef06295021cb220c</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.29944" lon="-1.675855">
+    <name>cabane chasseurs</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>b7e79b7c245cfa343799ac0a00d47ebb</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.049911" lon="-1.211301">
+    <name>cabane métal abri couchages</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>780de8b2f597769778803710949c7fac</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.835601" lon="-0.382762">
+    <name>cabane ouverte</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>b8399328131f0c3c08becc496a2a0830</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.589599" lon="0.709752">
+    <name>cabane ouverte</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>1a1dd4bd3eee5d15613bf33aa6d34f78</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.741392" lon="-0.037925">
+    <name>cabane propre ouverte</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>9f24006254692ee815859e622992f26f</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.035149" lon="-1.082213">
+    <name>campsite no water</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>003d4e79483bdbe0c12edca1a00eb102</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.7126437" lon="1.4323936">
+    <name>creek access away from road table tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>48846248c4c11da7e3a813e0dfd7a21c</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.610427" lon="0.620581">
+    <name>creek access parking tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>82366610d76f475d1e02675c97fc43f2</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.605448" lon="0.768054">
+    <name>creek access tent sites pretty but road noise</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>0b2c8e1903fcc77c823743e235d09bfb</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.7056884" lon="1.0525519">
+    <name>creek camp sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>a636dfcd84b274d7a18cb7320e4f612f</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.615671" lon="1.621668">
+    <name>creek tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>924b79d7e02b66715cfc6ea2f811621b</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.623792" lon="0.822172">
+    <name>creek tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>09fd935ec8bc4366c77f3d6e9a0913a8</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.62966" lon="0.93715">
+    <name>empty tunnel shelter</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>c60a7ab567eb7ad8630ae859f9aed710</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.5180035" lon="2.5245838">
+    <name>Estanyols Hut 8pers cleanish</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>55c8c2aa2f85866fc7002f295f74cc42</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.714732" lon="1.117945">
+    <name>Gate closed with a lock - August 2020
+Easy to go around by the blocks
+</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>c5a252070c3f3c2277688eea64794270</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.663132" lon="1.48739">
+    <name>great tent sites above lake</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>a1996e8648446fa986beb2cb052cd9f4</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.95231" lon="-0.690968">
+    <name>Hut and stream</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>38a588fe1e85ca47cf978a66fd444255</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.5974592" lon="1.9198428">
+    <name>Hut Rouzet</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>9fc3e28b412826f7c9c90d47241242f1</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.475379" lon="2.412804">
+    <name>Hut with stone roof - 2pers.</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>8085f302fee3900e6c3fceb513c2301b</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.59924" lon="1.83239">
+    <name>little tent site</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>630b78f5f77f314cd8d498cf0cb38a8a</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.80911" lon="-0.187882">
+    <name>many great tent sites by the creek</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>670ff5b12c9486737460597ce03a0a22</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.699586" lon="1.23309">
+    <name>many tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>031be15323a781235ec5f78dfeaebfc2</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.704894" lon="1.213732">
+    <name>many tent sites and springs</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>a4efc3b279b7426ea8e4cb92b0feb420</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.841325" lon="-0.469475">
+    <name>many tent sites water</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>58ba30698b6ef88a9894f66d58066cf9</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.619294" lon="1.601579">
+    <name>micro rain shelter 2 person crouching</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>f91b4584055fabc501db965327ef3634</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.517704" lon="2.525968">
+    <name>more campsites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>06f00cb660600276f3dcf0b5ef26dfd9</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.60744" lon="0.76783">
+    <name>more tent sites ; creek covers road noise</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>87e73196899d210a1ce31ab7c9114eda</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.459095" lon="2.839789">
+    <name>nice rock to seat</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>bcd086e8147db14b22ed4ba5a3329314</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.51167" lon="2.524642">
+    <name>one tent site</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>0e3ae7024d7b162285f93050267041a1</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.42051" lon="2.177439">
+    <name>Open Hut</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>d82bfaec20882a9b5b0776e63392d7e8</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.704702" lon="1.214789">
+    <name>Open Hut Refuge Lo Fangassal</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>86d24714e07527aaad3511b6d06108c8</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.6986115" lon="1.3369284">
+    <name>open shelter</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>103484a9256f0b028a18d836dbdc811b</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.694326" lon="1.236139">
+    <name>parking</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>a36a7dff5a2de9c9c616c34f7ccb5487</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.6106132" lon="0.6207617">
+    <name>Parking</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>26420c0a265649047334db5e4c3d98fb</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.6417911" lon="0.9718695">
+    <name>Parking</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>7b6f4c48cc15bfaffd62da8056c8380b</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.515564" lon="2.0766944">
+    <name>parking abri table banc</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>00dedcd1b1744ceda702e587f1ade604</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.036538" lon="-1.075412">
+    <name>pelouse banc ruisseau</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>80c11d36435e8bcefd37c312301bceb8</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.493962" lon="2.635971">
+    <name>possible bivouac and plenty water</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>a5ae204db085cfd35bbecc9f59bf31b7</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.5030295" lon="2.0765925">
+    <name>Public toilets</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>bdcaad370b50af20173722fc04c0ecf3</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.6114737" lon="1.6723396">
+    <name>Refuge de Cabana Sorda</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>9c68cb6a06e618e0e1c0d70ff65ef6e0</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.4758967" lon="2.9569552">
+    <name>Refuge de la Tanyarede</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>f8d07c065a9481d47cd1ff9e7a391462</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.5741014" lon="1.8997019">
+    <name>Refuge des Ingenieurs</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>9fe7bfaeebbc167f2f4be1d0ddbfc20a</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.6291014" lon="1.5375334">
+    <name>Refugi Besali</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>5401924b0a7ebebf531fda183fd69a96</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.6966676" lon="1.0421529">
+    <name>Refugi d'Airoto</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>3eed43f8d223c91e82d02ae0eae09fee</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.6184584" lon="1.6387985">
+    <name>Refugi de Cóms de Jan</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>4223310583b0283415c4ee1c5fcc8081</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.6280618" lon="0.7193175">
+    <name>Refugi de Molières</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>e73b4793440db9c5d76002ea35f9c30a</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.7060032" lon="1.189018">
+    <name>Refugi Mont-Roig</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>e8cb9bcc0be89f3006d67b9518d37364</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.42876" lon="2.337179">
+    <name>Refugi Portella de Roja</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>53c8829749bfecf568beb52230253b49</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.610212" lon="0.621071">
+    <name>refúgio de Coronas cabane</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>5a796e014902b88fe1069ed1e9581f9b</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.6687248" lon="0.2905241">
+    <name>Refugio del Paso de los Caballos</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>97e63ab298bd486ec060952e9912d0a8</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.6211142" lon="1.5797788">
+    <name>Refugio Estenle</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>1a7824d7db9d711b2219850742c97fe4</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.506717" lon="2.079664">
+    <name>robinet eau boulodrome table banc</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>ec2bb137f5d5573cf6ce59d72e3f8928</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.841939" lon="-0.323128">
+    <name>Rocher abri</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>7c190ae9dea934bba4513d3c0cd2b94a</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.629231" lon="0.785387">
+    <name>Rocher abri</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>6e8df6ac46dcd603178ccc3c3d8592db</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.598381" lon="0.748608">
+    <name>rock rain boulder shelter</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>55e072409270f43bbfe5009ea8c0b1fc</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.697452" lon="1.039087">
+    <name>rock shelter</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>35858f70de00a765c62035bb851cef8f</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.843169" lon="-0.357952">
+    <name>rock shelter tent site private hut</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>03e1ae08d2d2f09d7e7d38a9c22ef168</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.618214" lon="1.641279">
+    <name>secluded tent site near stream</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>7c1546463ab28d213413b021259b4962</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.041593" lon="-1.074587">
+    <name>Self service refuge with toilets and showers</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>280a702f13d20c3ea21c762fb9dc8270</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.623513" lon="1.752316">
+    <name>shaded tent site</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>ee0e498901691cf1f1757bd38a78c76c</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.801384" lon="-0.543506">
+    <name>shaded tent site</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>ec8c01c5f465985b0a271ea21d08029b</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.7048519" lon="1.2127197">
+    <name>shaded tent site by creek</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>23f0f2ab869cc8591aff95905564c1f9</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.532907" lon="2.463586">
+    <name>shaded tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>e88df53d99d904b85620e3995e134904</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.0470588" lon="-1.3711744">
+    <name>Shelter</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>a9591ca7098b419c49e11264b0f4e228</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.775542" lon="-0.121699">
+    <name>shelter cave Russel</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>3aafb9bfb234d88fe6053da4cf5f367f</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.440211" lon="2.70651">
+    <name>Shelter in semi abandoned building</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>85680e4ae5339626719c08d5bcbc3404</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.6806277" lon="0.6434148">
+    <name>Shelter Plan d'Están</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>0fa249a3fb1e59d4f79f1fe09a51b736</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.4259223" lon="2.7864051">
+    <name>Shower Restrooms</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>446815b28e5b0a32ef390fde5b5e8982</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.4288533" lon="2.3374268">
+    <name>slanted tent sites water at 1km</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>597fa46f97a3fbef6c75db9b4b8bfda7</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.837972" lon="-0.315006">
+    <name>small bumpy tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>038d1e24b63d5ffd74698030845df743</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.004584" lon="-1.020441">
+    <name>Small shelter nest to closed hut</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>f12870dac646771cdfc0c50aa0323ff5</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.626248" lon="0.931122">
+    <name>small tent site by lake</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>8089e937157da789f2bb0764b675e48a</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.844978" lon="-0.325985">
+    <name>small tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>4593dea2d1f0378b24382d3c37a0a32c</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.681368" lon="1.01384">
+    <name>some campsites by lake, spring flows</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>a9c8ba123ae05a068367c97c55e033e2</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.46188" lon="2.910366">
+    <name>spring pipe tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>59ebb63145caef8b923cfac5b6e9e247</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.420229" lon="2.249606">
+    <name>spring tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>5bb82673e4e2b3edec623fb4075c7042</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.57692" lon="1.993826">
+    <name>Spring; many bivouacs</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>bcc063ad69cd6980dc9faf5620a4a206</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.630458" lon="0.937194">
+    <name>springs tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>1b83cc80e41c172a6579ce371bb3f4f5</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.499632" lon="2.43939">
+    <name>steam crossing tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>4df4398025e0f35ca0bac13e9d29637c</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.62142" lon="1.60719">
+    <name>Stone Shelter Hut</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>956b15d96a24efc8085075c590b7c917</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.714495" lon="1.130982">
+    <name>stream and possible tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>963b7d7ed73236d1e6d72ab09bce4af8</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.419151" lon="2.780656">
+    <name>stream and shaded tent sites next to it!</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>aede12d3a4716781b3787028a647e238</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.465118" lon="2.914746">
+    <name>stream bench</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>3089357055758c663a49f8d98842568c</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.755274" lon="-0.09556">
+    <name>stream camp sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>13d57fcc1406cefb5183d6ae76c9ed7c</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.601047" lon="1.943684">
+    <name>stream tent site</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>605b7d3cb3c720cc0943460d179347f6</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.600847" lon="1.953673">
+    <name>stream tent site</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>cca802e993d1632e4f29c3a156bcd973</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.600629" lon="1.858698">
+    <name>stream tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>549c12ba77e20640da0895b9a2e7cf03</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.596714" lon="0.758154">
+    <name>table banc</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>59ed06c18965a08b0bce2dc149474aee</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.026127" lon="-1.342913">
+    <name>table banc</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>985683e6bf06e2ce443a0a501d9af4e0</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.912057" lon="-0.6722578">
+    <name>Table banc</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>86e5974b693536f971614a018fd6bab4</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.0942629" lon="-1.4831877">
+    <name>Table banc</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>5fb71c8652a512d1e8562c621f574a4b</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.498453" lon="2.409468">
+    <name>table banc fontaine</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>8abcb428836e0e9b41a7328f4c4856b6</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.170388" lon="-1.534093">
+    <name>table banc pelouse eau</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>b976889acf36c0744509aa4ef2591117</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.597104" lon="0.741125">
+    <name>table banc tent sites source</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>c4fefb0ff037d5e72e3f3cc3fcda3d89</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.463772" lon="2.40782">
+    <name>table banc tente site</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>f73be700cf9607740b15334b5b0626a2</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.710277" lon="1.425416">
+    <name>table banc toilets very disgusting</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>bbc000fd2d0daf0f2e7aa50473bc660d</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.596731" lon="0.738918">
+    <name>table bancs 1 ou 2 tentes sous les bois accès rivière</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>f434c10b88b1259759f4d42e39380c0f</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.4637215" lon="2.4077752">
+    <name>Table bench</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>0a31d44e4ef4e39fdd2203d332617fe9</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.4497274" lon="2.3912538">
+    <name>Table bench</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>3226bd50b7258b2e99561e6ac575f3b9</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.332367" lon="-1.729081">
+    <name>table pic nic</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>a2fb11473eced15a3228848b987797e4</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.613471" lon="0.768556">
+    <name>tables bancs barbecue parking tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>5f5d35b231d979ce775d44bdd2f206b7</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.7141392" lon="1.4351326">
+    <name>tables bancs bord route</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>7f5fb42fed5d294f896da0fe3434c742</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.83554" lon="-0.45185">
+    <name>tent site</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>32bd5d38872e34d1d0b04df2053b4ae6</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.425187" lon="2.723494">
+    <name>tent site</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>b5f88f9d34ac98308858f786a28f9e08</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.473987" lon="3.050729">
+    <name>tent site</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>e4eb3c0cec513dce052fafa11a6700ba</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.465996" lon="2.868762">
+    <name>tent site</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>506df7bd121b73a49e64ae4e3795b0a7</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.800008" lon="-0.177006">
+    <name>tent site</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>8619b9eee61f5618271defa5942cb254</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.817225" lon="-0.58428">
+    <name>tent site</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>a9e4aeef32f8cf670e4668db292dae30</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.82965" lon="-0.319649">
+    <name>tent site</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>025dc98ca5f95e3a8958ed2bdb8c6a14</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.850844" lon="-0.62489">
+    <name>tent site</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>484c7841501e11caf3a0591e7d06c126</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.457348" lon="2.096936">
+    <name>tent site</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>6780875fa3da33705ad0051feae38bee</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.639675" lon="0.806772">
+    <name>tent site</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>28de6b48eb0c271de646fa46a04c9961</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.434288" lon="2.354611">
+    <name>tent site</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>91161b43615a9900411c18eaa511a82a</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.484094" lon="3.088444">
+    <name>tent site</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>6577e76f0d926bb25edf9bcb3cf9454f</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.433045" lon="2.349252">
+    <name>tent site</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>eafc1beb73eeafcf38e2481f9012c87c</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.836183" lon="-0.452379">
+    <name>tent site</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>7dc808a4ed8abed440dbb01158876611</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.415316" lon="2.781195">
+    <name>Tent site</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>eea7facb1e2ca9211fa323139fb093c7</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.8904331" lon="-0.7111835">
+    <name>Tent site</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>1000ada277a6c9ac482aa6a1a0014b88</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.889177" lon="-0.7098085">
+    <name>Tent site</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>7eb4180060f4be5b030b106704cc1b4a</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.8922458" lon="-0.7152456">
+    <name>Tent site</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>7450c891d2fab7cc97c0a600d387a513</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.0969535" lon="-1.4572064">
+    <name>Tent site</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>30492ae199f28c2413cc1b3ceafd2891</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.453636" lon="2.102561">
+    <name>tent site by creek</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>693c82446d1b739eb32ee6499cc31e51</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.443984" lon="2.115621">
+    <name>tent site by creek</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>80f4f90ea87bb1acc3670804e24eb757</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.447147" lon="2.109947">
+    <name>tent site by creek</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>0757712a61b3ad376be3d13cdba2a1fc</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.566447" lon="1.995255">
+    <name>tent site by lake</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>41ebc6a338424573873a2469de1489ae</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.552214" lon="2.014508">
+    <name>tent site by lake</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>4b10ceabb808865c188fcb512bbdee10</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.613707" lon="1.772265">
+    <name>tent site by lake</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>5c745784708913d664052844a2a95f29</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.54891" lon="2.018644">
+    <name>tent site by lake</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>e1fdd4511637abef251cde03915bf1eb</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.636849" lon="0.808223">
+    <name>tent site by lake</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>7e9867ebc3ca93f9c9910813a26969ba</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.626686" lon="0.823147">
+    <name>tent site by lake</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>817d7c789cc4f3d0fcf7e6705b703cc7</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.838184" lon="-0.403851">
+    <name>tent site creek</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>4a3d411b65ecf30ba1c4ededbb9dbaad</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.83198" lon="-0.493261">
+    <name>tent site creek</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>099b80bb95d12db6b253f2fa40e5f7f6</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.796794" lon="-0.556674">
+    <name>tent site creek</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>220c7ae190ec4cbd6431673b66253a30</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.463613" lon="2.089934">
+    <name>tent site creek below</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>7da30a63edeba0a4414c8c0f8ac2a903</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.738861" lon="-0.019127">
+    <name>tent site creek trees</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>e5ffc87cd603f153e6160ee9766bc708</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.421946" lon="2.154695">
+    <name>tent site for the adventurer</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>d073596b114880fac0f24bb8a72398db</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.424188" lon="2.16733">
+    <name>tent site for the strongest</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>7006aa84101d2add19de60258fffc8ae</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.702237" lon="1.337803">
+    <name>tent site near creek</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>93a64039d6c0e87aff39b3a4db632a9f</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.814135" lon="-0.190079">
+    <name>tent site near creek below trail</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>18c69047cd53a87d7b77dd5f2ac1ef76</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.609287" lon="1.723564">
+    <name>tent site near lake</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>5e42da6016ca9e412fea21186f98666b</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.609355" lon="1.890368">
+    <name>tent site near pond</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>475f3bfbaa5b412b45550a804a1d6cd8</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.615537" lon="1.655462">
+    <name>tent site near stream</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>635e12bb7657b1d25c43e76718ad8186</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.702434" lon="1.325526">
+    <name>tent site near water</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>5a24db42afc31e19bc09d0f7c877cdb3</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.8151005" lon="-0.2187008">
+    <name>tent site small stream</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>410030e6dda8e3b3ee67ec26f81ff4c4</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.84459" lon="-0.35069">
+    <name>tent site stream</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>7fda2dfb964bbfe637a20308fb06fa12</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.813056" lon="-0.229408">
+    <name>tent site stream</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>5d7b6e9b99cea6d2d48fc686dcd5fff6</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.816318" lon="-0.203169">
+    <name>tent site stream</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>1693eb1cc7d5c9c52a0bb974b9e8ea31</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.834102" lon="-0.415776">
+    <name>tent site water</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>dffb1bbf6383a467a0c7cf2e58ee3046</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.878543" lon="-0.708962">
+    <name>tent site water</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>c420339b22d04da3f6c61307f29b738e</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.887923" lon="-0.708843">
+    <name>tent site water</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>2031b7f128ccf53b1b07dff3fe24d8f3</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.834731" lon="-0.433349">
+    <name>tent site water</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>166f9b3252fbf92cd125c29cd114a4e4</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.777867" lon="-0.122006">
+    <name>tent site water</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>c441f18282900514e45b57160d133b74</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.707411" lon="1.4536733">
+    <name>tent site water</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>d66298e3c1f26a5802a9f74576eb59a2</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.507031" lon="2.545118">
+    <name>tent site with sea view!</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>5fa06fc770a9f32d7b5006e5848b7a58</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.622986" lon="1.751847">
+    <name>tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>1eb2f4f41e377996f3f6a36e303ef84e</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.598345" lon="1.836054">
+    <name>tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>a0dedec7638b122e2aae55f72a01343e</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.619968" lon="1.614811">
+    <name>tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>9b58304bdbe8217f8a59ccecdc3d0163</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.466371" lon="2.677571">
+    <name>tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>cd069bc16b1e59c910f536bf72dc2ddb</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.517062" lon="2.492375">
+    <name>tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>786487dcdda417f5add08b2bb2b54d1d</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.846501" lon="-0.345107">
+    <name>tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>6b84a18dba62871fa0e050d421cefe24</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.618566" lon="1.599431">
+    <name>tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>7ca94bc0359e248323cac67350c6123a</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.664671" lon="1.489677">
+    <name>tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>30a0ad86df56ca7058771b2606fc12a5</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.775395" lon="-0.122135">
+    <name>tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>9d65e4c21f3b7547d29ec6cb6fd308c8</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.532399" lon="2.460946">
+    <name>tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>8116de550cb854e1f6fa4a80c72f56e6</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.42389" lon="2.739897">
+    <name>tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>6fdfc5602b5438b6bf27749c33ab31fb</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.606102" lon="1.879356">
+    <name>tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>edb74054ebb10ef25c77b867f7b71e63</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.706938" lon="1.343342">
+    <name>tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>013fa3a1268526e8bd7dcec4cbab0915</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.705795" lon="1.339326">
+    <name>tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>768cf4ff4f6946c8ff35d49a858bf8f2</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.704756" lon="1.364686">
+    <name>tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>fd3fb9261a95d2458904d51a0f334253</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.698428" lon="1.167212">
+    <name>tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>844e49be368418615659c2c9a3e83829</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.588794" lon="0.709004">
+    <name>tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>bd3cafcd28922f976c9950f084651261</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.630795" lon="0.866419">
+    <name>tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>e38aaa5bdcc275f548d1a51548bc7fb1</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.503712" lon="2.444962">
+    <name>tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>dfadd60c0ebf0821172b0452ce2e0a38</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.598237" lon="1.959408">
+    <name>tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>c39ca115e27737ecb1f9069459533204</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.621763" lon="1.760202">
+    <name>tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>eb9bda2c9956e118d38b390d59ec9561</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.760166" lon="-0.102529">
+    <name>tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>0dd00d8f68d4618511fbf3d78d36cdb8</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.815954" lon="-0.284177">
+    <name>tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>bb8fe990e6a9f3d0fccf73b18956d980</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.663579" lon="1.492402">
+    <name>tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>8d75189cc221bdf1275e19fa66855fb0</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.622366" lon="1.758308">
+    <name>tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>9ad54616053a047d0e8c1290b910540f</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.418575" lon="2.225872">
+    <name>tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>4ed7de887e3e025366e7d9a998d15876</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.592206" lon="0.713354">
+    <name>tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>7201acc86bc4481bf5af0a2e2610ce1d</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.847964" lon="-0.621476">
+    <name>tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>694d1b237130762279ea937e5292c27e</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.814732" lon="-0.280938">
+    <name>tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>d934eaeb775615feed3c8078bcbbab11</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.545328" lon="2.017098">
+    <name>tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>937127084b20bbf920083d2fd84b0036</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.622693" lon="0.916741">
+    <name>tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>3af187d497e1a58607ce30f7d9c7e3f9</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.0235549" lon="-1.14627">
+    <name>Tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>55b8ac4c139bb0bdc0707c979928eb49</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.947036" lon="-0.854029">
+    <name>Tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>e74f704f0d030777ab910a98afecf17c</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.9119784" lon="-0.6723087">
+    <name>Tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>dea1892e52ada61ac39d21d80bea1818</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.0776028" lon="-1.3867662">
+    <name>Tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>3426b957825c5661ac2aaadc9bdd050a</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.0979042" lon="-1.4269418">
+    <name>Tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>f8f2a6f0d67301e7fc74c1c4eddd17b5</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.95201" lon="-0.714831">
+    <name>Tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>b7cc052b7bd6b18ac900adeff892b77b</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.961751" lon="-0.912603">
+    <name>Tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>bf3a9520d3ab91b1f42a787753ff7c16</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.039905" lon="-1.0571611">
+    <name>Tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>4396de209329ecb2e8356e53034af2dc</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.042174" lon="-1.062532">
+    <name>Tent Sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>27e86b230fb3190892a5f950c5100637</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="43.047" lon="-1.371127">
+    <name>Tent sites - shelter</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>0b040d9d7f4646da0ca908e2acfd8453</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.517979" lon="2.524366">
+    <name>tent sites around hut fountain</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>06c0c8f5f9b0629656ef493dfefcfcbd</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.628211" lon="1.538594">
+    <name>tent sites below hut stream</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>31292463b5aa4a8966fce779eef6ab4b</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.622672" lon="0.88885">
+    <name>tent sites below trail</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>fa725373886375746920482c75af6e3d</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.69724" lon="1.186981">
+    <name>tent sites by creek</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>a7bbc561ba9c958fa9bfd213b8525372</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.43948" lon="2.1212">
+    <name>tent sites by creek</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>58b42643d5a334a75d0279593cad4338</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.629507" lon="0.961904">
+    <name>tent sites by creek</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>79bfae6beb01c56ac2d159f737b0308e</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.705795" lon="1.207482">
+    <name>tent sites by creek</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>e4a149318d0ec4ad478d462ff752840c</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.426149" lon="2.138343">
+    <name>tent sites by creek</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>f1c3390c0262d1ef8a1aa7806186f125</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.70892" lon="1.142551">
+    <name>tent sites by creek</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>185d698f5a541b27c5c54d5f538cd3e5</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.70732" lon="1.192461">
+    <name>tent sites by creek</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>db440a9b4c2402812ffaac0ec3cd6a9f</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.435645" lon="2.12604">
+    <name>tent sites by creek</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>1e34788483dec533bca2f8c5ba7756bb</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.905538" lon="-0.691227">
+    <name>Tent sites by creek</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>30c87131d58eaa8d5f77a6078ffa2352</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.942636" lon="-0.679512">
+    <name>Tent sites by creek</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>3cefcdd1d5d3cb8f0d5b6fc65e33964c</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.698901" lon="1.260381">
+    <name>tent sites by creek and trees</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>b9553b522f528587772c5b9d96a89c17</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.696268" lon="1.028464">
+    <name>tent sites by lake</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>e559a77038b56aa3df2ac3c93eafd10a</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.660358" lon="1.501717">
+    <name>tent sites by lake</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>a7914555f1a271573d5e7d02b72c97e8</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.6784644" lon="1.0112777">
+    <name>tent sites by lake</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>755a61dc10793375192358f645e2e197</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.694421" lon="1.172894">
+    <name>tent sites by lake</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>068bb824a4e014fe9fbfa596d82113f4</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.700851" lon="1.186137">
+    <name>tent sites by lake</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>6cb3dd0b890b1698971d6eddd2fa35c3</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.619531" lon="0.832761">
+    <name>tent sites by lake</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>2e7744406172263bf7f798996d545bf5</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.637181" lon="1.491656">
+    <name>tent sites by lake</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>073a5d7dc0c2bfeca9272089e1f4a742</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.599523" lon="1.853064">
+    <name>tent sites by lake stream</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>78328ce2a0b5bcaa4bbe606c94075e75</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.604898" lon="1.876604">
+    <name>tent sites by stream</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>b35850549a0d5634c4250919b6ed184d</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.645556" lon="1.493108">
+    <name>tent sites by stream</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>4b19952bbbdaad1af987cb569ffa81e7</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.631169" lon="0.850434">
+    <name>tent sites by waterfall</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>59cd7f1eb662611eea7fc0c17ac928a6</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.837497" lon="-0.3859">
+    <name>tent sites creek</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>e948329be9310084faae65f7203fa6e6</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.790106" lon="-0.14347">
+    <name>tent sites creek</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>bb25d8a86d17eba3a1b1b2aa741e9bec</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.802314" lon="-0.175973">
+    <name>tent sites creek</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>0ecf325768aaf1408618a81bffb1de9a</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.795876" lon="-0.173994">
+    <name>tent sites creek</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>5ca7dfb06b8509f01b6be0d902c2b089</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.744933" lon="-0.090918">
+    <name>tent sites creek</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>b95c0fce7c7870c374c9f4bff97541d2</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.737351" lon="-0.070675">
+    <name>tent sites creek</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>9367a40ce1dddb8d706f5136a36ded79</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.606771" lon="0.636481">
+    <name>tent sites creek</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>9b495458d27ac892f9563874434f3c9f</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.818682" lon="-0.196487">
+    <name>tent sites creek 5 star</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>21c5c23a80dfa5d0bc86f1445dee699b</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.70524" lon="1.065889">
+    <name>tent sites creek below 4x4 parking</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>baa4b91fdf0860456f25f6eb370db443</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.426025" lon="2.786278">
+    <name>tent sites in town water shower shelter tables benches trees</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>ba78010e02c1d0bad01e565691a76251</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.599354" lon="0.685017">
+    <name>tent sites lake</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>bb3205d6337b49e0286d0b627a9fd38c</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.60518" lon="0.666323">
+    <name>tent sites lake</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>92bdd2b8d3408fad8b641d73de41c4a2</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.617675" lon="1.617415">
+    <name>tent sites lake stream</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>9919674393bc13d994f61974f57f126a</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.608767" lon="0.642312">
+    <name>tent sites river pretty</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>b150d3819623a6e2193313a69214d243</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.855908" lon="-0.646568">
+    <name>Tent sites spring below</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>30e7f951b409da0dcdaddf9b1f77b071</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.612427" lon="1.694122">
+    <name>tent sites spring by the small pool</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>e383eee276f957d97989d5e96552dcb8</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.616385" lon="1.650709">
+    <name>tent sites stream</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>687aaae2dd2e456a132e20e1e6d45297</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.699008" lon="1.274155">
+    <name>tent sites stream</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>58fcdbad66026d25d71d698d65d59c33</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.856148" lon="-0.639825">
+    <name>Tent sites stream</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>e5d4a9d0b5c9980eb017fa10137b9383</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.449958" lon="2.39079">
+    <name>tent sites table bench access 4x4</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>8afa37d683a09396436be12bbe2885df</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.478842" lon="2.95264">
+    <name>tent sites tables but raccoon!</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>6cf4342b96d5d9a6a6c27b0c65c68fb4</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.775354" lon="-0.118352">
+    <name>tent sites water</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>81dc6b26c6836e45b68d418cf33e0f3d</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.814066" lon="-0.269832">
+    <name>tent sites water</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>b3d427f208be85bc63a53f46892ac816</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.881027" lon="-0.706472">
+    <name>tent sites water</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>7429ba2410dd7da883878d034beb8cce</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.810916" lon="-0.58541">
+    <name>tent sites water</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>da2f2f91072b86e91ec5d55324fcb30e</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.600094" lon="1.940908">
+    <name>tent sites water</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>3cfabdefe4bd749976662b453d8ebd1d</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.779212" lon="-0.1239714">
+    <name>tent sites water</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>fde2bb7a8d684d41b913a271f4a41412</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.814634" lon="-0.504093">
+    <name>tent sites water</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>38d21626c79efc55b2ea042b0c25ab9e</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.583917" lon="1.991407">
+    <name>tent sites water</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>4fecdd943fc7661998aa52f801399462</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.822153" lon="-0.50468">
+    <name>tent sites water</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>61584073124008976b06c1586f34e57d</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.955805" lon="-0.699769">
+    <name>Tent sites water</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>0462a5531dd6cd95dce1c7da4ee64a26</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.776006" lon="-0.116075">
+    <name>tent sites water below main trail</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>64e7a1d605019b5b943ff6deeb0187f5</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.8322753" lon="-0.3143341">
+    <name>tent sites water!</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>1719b8bd0b18a4ac3962390edd634f0c</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.696953" lon="1.182886">
+    <name>tent sites wind shelter</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>7e9474628f2b4b2101fcce884f523e1b</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.478012" lon="2.924063">
+    <name>weak pipe water tent sites</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>340d27de1b5b2094389fc1a18d34f767</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="42.834892" lon="-0.486996">
+    <name>wind shelter tent site</name>
+    <cmt>bivouac</cmt>
+    <extensions>
+      <ql:key>668a781e106b9dd1dcaf84c8c9bd8e48</ql:key>
+      <ql:flags>0</ql:flags>
+      <ql:bubble yoff="-150" width="300" xoff="-320"></ql:bubble>
+      <wptx1:WaypointExtension></wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <extensions>
+    <ql:key>3dc8540707c29ed7de5fb23d49216c9d</ql:key>
+    <ql:sortingRoadbook>0</ql:sortingRoadbook>
+    <ql:sortingFolder>0</ql:sortingFolder>
+    <ql:correlation>1</ql:correlation>
+    <ql:invalidDataOk>0</ql:invalidDataOk>
+  </extensions>
+</gpx>
